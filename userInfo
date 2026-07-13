@@ -1,0 +1,23 @@
+[
+  {
+    "id": "basava01",
+    "name": "Basava Vidhyabhiruddhi Sanga",
+    "userName": "Basava Vidhyabhiruddhi Sanga",
+    "email": "sribasavavidhyabhiruddhisanga@gmail.com",
+    "userType": "admin"
+  },
+  {
+    "id": "basava02",
+    "name": "Suhas Kumar",
+    "userName": "Suhas Sanku",
+    "email": "suhassanku@gmail.com",
+    "userType": "finance"
+  },
+  {
+    "id": "basava03",
+    "name": "Suhas Kumar",
+    "userName": "Suhas Java",
+    "email": "suhasjavaui@gmail.com",
+    "userType": "Guest"
+  }
+]
