@@ -1,1294 +1,1934 @@
 [
   {
+    "memberId": "MEM001",
     "name": "Dr. M.R.Basappa",
-    "address": "Janapada Artist Malenahally, Sollapura Po,Tarikere Tq. CKM Dist., 577 550"
+    "address": "Janapada Artist Malenahally, Sollapura Po,Tarikere Tq. CKM Dist., 577 550",
+    "status": "Active"
   },
   {
+    "memberId": "MEM002",
     "name": "Sri. M.Dayanand",
-    "address": "C/o G.T.ShivannaM/s Digitek Knitters, # 61, NS Palya,5th Main, Banneraghatta road,Bengaluru 560 076    9902410776"
+    "address": "C/o G.T.ShivannaM/s Digitek Knitters, # 61, NS Palya,5th Main, Banneraghatta road,Bengaluru 560 0769902410776",
+    "status": "Active"
   },
   {
+    "memberId": "MEM003",
     "name": "Sri. G.M.Basavarajappa",
-    "address": "M/s Madhu enterprises,# 446, 4th Phase, PIA estate, Bengaluru 560 058"
+    "address": "M/s Madhu enterprises,# 446, 4th Phase, PIA estate, Bengaluru 560 058",
+    "status": "Active"
   },
   {
+    "memberId": "MEM004",
     "name": "Sri. B Basavaraju",
-    "address": "# 628, 15th Main, 24th Cross, BSK 2nd Stage, Bengaluru 560 070"
+    "address": "# 628, 15th Main, 24th Cross, BSK 2nd Stage, Bengaluru 560 070",
+    "status": "Active"
   },
   {
+    "memberId": "MEM005",
     "name": "Sri..S.Chandrashekhar",
-    "address": "Professor (Rtd) # 81, 4th Main, Vidyagiri LayoutNagarabhavi 1st stage Bengaluru- 560 072"
+    "address": "Professor (Rtd) # 81, 4th Main, Vidyagiri LayoutNagarabhavi 1st stage Bengaluru- 560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM006",
     "name": "Sri. E.Chandrashekhar",
-    "address": "# 20/2, 8th Cross, 6th MainPillappa Blk, Hebbal Po. Bengaluru- 560 032"
+    "address": "# 20/2, 8th Cross, 6th MainPillappa Blk, Hebbal Po. Bengaluru- 560 032",
+    "status": "Active"
   },
   {
+    "memberId": "MEM007",
     "name": "Sri.K.P.Dinesh",
-    "address": "Mahira temple view, # 1153, 1st floor, 5th Blk, 2nd Main, HMT Layout, Nagasandra po. Bengaluru- 560 073"
+    "address": "Mahira temple view, # 1153, 1st floor, 5th Blk, 2nd Main, HMT Layout, Nagasandra po. Bengaluru- 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM008",
     "name": "Sri. K.S.Diwakaraiah",
-    "address": "# 511, 24th `A` cross, 20th Main, Judicial layout, GKVK Po.,Bengaluru 560 065"
+    "address": "# 511, 24th `A` cross, 20th Main, Judicial layout, GKVK Po.,Bengaluru 560 065",
+    "status": "Active"
   },
   {
+    "memberId": "MEM009",
     "name": "Sri. G.P.Eshwarappa",
-    "address": "Teacher Sri Ambika Kannada High School, JaiMaruthinagar ,Nandini layout, Bangalore 560 096"
+    "address": "Teacher Sri Ambika Kannada High School, JaiMaruthinagar ,Nandini layout, Bangalore 560 096",
+    "status": "Active"
   },
   {
+    "memberId": "MEM010",
     "name": "Sri. C.Basavaraju",
-    "address": "# 93, `Sri Mookambika Nilaya` 1st Main Maruthinagar,Mahadeswaranagar Vishwaneedam po. Bengaluru 560 091"
+    "address": "# 93, `Sri Mookambika Nilaya` 1st Main Maruthinagar,Mahadeswaranagar Vishwaneedam po. Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM011",
     "name": "Sri. Raghu kumar. B",
-    "address": "# 16/28, Nisarga, 5th main,Kempamma layout, MariappanapalyaGnanabharathi Po, Bangalore 560 056"
+    "address": "# 16/28, Nisarga, 5th main,Kempamma layout, MariappanapalyaGnanabharathi Po, Bangalore 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM012",
     "name": "Smt. Shobha Shantharaju",
-    "address": "# 240, 1st `M` Main, II Stage, 1st Blk, Nagarabhavi 2nd stage, Bengaluru 560 072"
+    "address": "# 240, 1st `M` Main, II Stage, 1st Blk, Nagarabhavi 2nd stage, Bengaluru 560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM013",
     "name": "Sri.S.R.Chandrashekhar",
-    "address": "Shanka at & poHassan Tq and Dist. 563 201"
+    "address": "Shanka at & poHassan Tq and Dist. 563 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM014",
     "name": "Sri.Eshwarappa",
-    "address": "# 6/2, 2nd cross, Mohan kumar nagar Yeswanthpur Po., Bengaluru- 560 022"
+    "address": "# 6/2, 2nd cross, Mohan kumar nagar Yeswanthpur Po., Bengaluru- 560 022",
+    "status": "Active"
   },
   {
+    "memberId": "MEM015",
     "name": "Sri. N.Gurulingappa",
-    "address": "# 27, KSRTC Layout, JP Nagar 2nd phase,Bengaluru 560 078"
+    "address": "# 27, KSRTC Layout, JP Nagar 2nd phase,Bengaluru 560 078",
+    "status": "Active"
   },
   {
+    "memberId": "MEM016",
     "name": "Smt..Gayatri Rudresh Lenkappa garden Veerabhadraswamy Nilaya",
-    "address": "6th Cross Ashoknagar, Tumkur 572 102"
+    "address": "6th Cross Ashoknagar, Tumkur 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM017",
     "name": "Sri. P.Guruprasad",
-    "address": "S/o KC.Palaksha# 96, 2nd Cross, Saraswathinagar, Vijayanagar, Bangalore-40"
+    "address": "S/o KC.Palaksha# 96, 2nd Cross, Saraswathinagar, Vijayanagar, Bangalore-40",
+    "status": "Active"
   },
   {
+    "memberId": "MEM018",
     "name": "Smt. K.N.Hemavathi Mallaiah",
-    "address": "# 777,`Srimukha` 7th cross, HMT LayoutNagasandra Po., Bengaluru 560 073"
+    "address": "# 777,`Srimukha` 7th cross, HMT LayoutNagasandra Po., Bengaluru 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM019",
     "name": "Sri. Hemanth Jenkal V.B",
-    "address": "# 303/A, 5th main, 3rd phase,Manjunathanagar, Bangalore 560 010"
+    "address": "# 303/A, 5th main, 3rd phase,Manjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM020",
     "name": "Sri. H.V.Jayashankar",
-    "address": "#336, BHUVI, 5th main, BEML Layout 1st stage, Basaveshwaranagar, Bangalore-560 079"
+    "address": "#336, BHUVI, 5th main, BEML Layout 1st stage, Basaveshwaranagar, Bangalore-560 079",
+    "status": "Active"
   },
   {
+    "memberId": "MEM021",
     "name": "Smt... Jyothi",
-    "address": "# 303, G Blk, Netravathi, BDA Quarters, Nandini Layout, Bengaluru- 560 096"
+    "address": "# 303, G Blk, Netravathi, BDA Quarters, Nandini Layout, Bengaluru- 560 096",
+    "status": "Active"
   },
   {
+    "memberId": "MEM022",
     "name": "Sri. Kumarswamy",
-    "address": "LIC agent# 19, 2nd Cross,7th Main, BSK 3rd StageSyndicate bank colony,Bengaluru -85"
+    "address": "LIC agent# 19, 2nd Cross,7th Main, BSK 3rd StageSyndicate bank colony,Bengaluru -85",
+    "status": "Active"
   },
   {
+    "memberId": "MEM023",
     "name": "Dr. C.R.Kanvikar",
-    "address": "# 264, 3rd Cross, Domlur 2nd Stage, Bengaluru 560 075"
+    "address": "# 264, 3rd Cross, Domlur 2nd Stage, Bengaluru 560 075",
+    "status": "Active"
   },
   {
+    "memberId": "MEM024",
     "name": "Sri C.M.Kotturappa",
-    "address": "# 9, Mallige road, Saraswathipuram, Tumkur 572 202"
+    "address": "# 9, Mallige road, Saraswathipuram, Tumkur 572 202",
+    "status": "Active"
   },
   {
+    "memberId": "MEM025",
     "name": "Sri. V.C.Kattimani",
-    "address": "# 118/B, `Sri Siddeswara nilaya`24th Cross, Rajajinagr 2nd BlkBengaluru 560 010"
+    "address": "# 118/B, `Sri Siddeswara nilaya`24th Cross, Rajajinagr 2nd BlkBengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM026",
     "name": "Sri. N.Kumar",
-    "address": "S/o Late Neelakantappa S.Madapura at & po., Singatagere po. Kadur Tq, CKM Dist 577 138"
+    "address": "S/o Late Neelakantappa S.Madapura at & po., Singatagere po. Kadur Tq, CKM Dist 577 138",
+    "status": "Active"
   },
   {
+    "memberId": "MEM027",
     "name": "Sri. H.R.Kumaraswamy",
-    "address": "M/s Fine tech toolings , # V-16, 4th main, next to C-177, PIA 2nd StageBangalore -560 058"
+    "address": "M/s Fine tech toolings , # V-16, 4th main, next to C-177, PIA 2nd StageBangalore -560 058",
+    "status": "Active"
   },
   {
+    "memberId": "MEM028",
     "name": "Sri. Kiran S.K",
-    "address": "S/o Kantharaju Sulekere at & po. Arasikere TqHassan Dist., 573 203"
+    "address": "S/o Kantharaju Sulekere at & po. Arasikere TqHassan Dist., 573 203",
+    "status": "Active"
   },
   {
+    "memberId": "MEM029",
     "name": "Sri. M.S.Lingappa",
-    "address": "# 9, 6th main, Bahubalinagar, MES Road, Gokul Po., Bengaluru 560 013"
+    "address": "# 9, 6th main, Bahubalinagar, MES Road, Gokul Po., Bengaluru 560 013",
+    "status": "Active"
   },
   {
+    "memberId": "MEM030",
     "name": "Sri. Lokeshappa",
-    "address": "# 16/1, 7th Cross, 7th Main, `Anu Nilaya`, MK Nagar,Ward -17Yeswanthpur,po, Bengaluru 560 022"
+    "address": "# 16/1, 7th Cross, 7th Main, `Anu Nilaya`, MK Nagar,Ward -17Yeswanthpur,po, Bengaluru 560 022",
+    "status": "Active"
   },
   {
+    "memberId": "MEM031",
     "name": "Sri K.H.Basavarajappa",
-    "address": "#105, Behind police quarters, Krishnanandanagar, Nandini layout Po. Bengaluru 560 096 8147077789"
+    "address": "#105, Behind police quarters, Krishnanandanagar, Nandini layout Po. Bengaluru 560 096 8147077789",
+    "status": "Active"
   },
   {
+    "memberId": "MEM032",
     "name": "Sri. P.Lingaraju",
-    "address": "S/o Puttalingappa Javanahally, Guligenahally Po. Sira Tq. Tumkur Dist 572 137"
+    "address": "S/o Puttalingappa Javanahally, Guligenahally Po. Sira Tq. Tumkur Dist 572 137",
+    "status": "Active"
   },
   {
+    "memberId": "MEM033",
     "name": "Sri. E.S.Lingadevaru",
-    "address": "S/o Sannananjappa Kathalemane, Edenahally, Tiptur Tq Tumkur Dist 572 202"
+    "address": "S/o Sannananjappa Kathalemane, Edenahally, Tiptur Tq Tumkur Dist 572 202",
+    "status": "Active"
   },
   {
+    "memberId": "MEM034",
     "name": "Sri. Lingaraju Shastry",
-    "address": "# 5/140, 1st cross, 1st main, Chamundeswari layout Vidyaranyapura Bengaluru 560 097"
+    "address": "# 5/140, 1st cross, 1st main, Chamundeswari layout Vidyaranyapura Bengaluru 560 097",
+    "status": "Active"
   },
   {
+    "memberId": "MEM035",
     "name": "Sri Malleshaiah s/o Channabasavaiah (hotel)",
-    "address": "Chindenahally gate, Kenkere po., Arasikere Tq. Hassan Dist. 573 119"
+    "address": "Chindenahally gate, Kenkere po., Arasikere Tq. Hassan Dist. 573 119",
+    "status": "Active"
   },
   {
+    "memberId": "MEM036",
     "name": "Sri G.R.Mallaiah",
-    "address": "# 777,`Srimukha` HMT LayoutNagasandra Po.,Bengaluru 560 073"
+    "address": "# 777,`Srimukha` HMT LayoutNagasandra Po.,Bengaluru 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM037",
     "name": "Sri. B.Mahadevaiah",
-    "address": "(HMT)# 945 ( 1st floor) , 4th cross, 4th BlockHMT Layout, Nagasandra Po. Bengaluru- 560 073"
+    "address": "(HMT)# 945 ( 1st floor) , 4th cross, 4th BlockHMT Layout, Nagasandra Po. Bengaluru- 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM038",
     "name": "Smt. V.Mahalaxmi",
-    "address": "C/o H.B.Revanna# MIG 46A, 1st cross, JTK 1st stage, Kuvempunagar, Opp Complex, Mysore"
+    "address": "C/o H.B.Revanna# MIG 46A, 1st cross, JTK 1st stage, Kuvempunagar, Opp Complex, Mysore",
+    "status": "Active"
   },
   {
+    "memberId": "MEM039",
     "name": "Sri. .Mruthyanjayappa",
-    "address": "# 150, Sannakki Bayalu, Kamaksipalya, Kamalanagar 2nd Stage, Bengaluru - 79"
+    "address": "# 150, Sannakki Bayalu, Kamaksipalya, Kamalanagar 2nd Stage, Bengaluru - 79",
+    "status": "Active"
   },
   {
+    "memberId": "MEM040",
     "name": "Sri. K.H.Manjunath",
-    "address": "# 116, G-02, Sri Adhitya green, 5th Cross, HMT Layout, Nagasandra Po. Bengaluru -560 073"
+    "address": "# 116, G-02, Sri Adhitya green, 5th Cross, HMT Layout, Nagasandra Po. Bengaluru -560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM041",
     "name": "Smt Mahadevamma",
-    "address": "Coconut merchant, Haranahally at & po, Javagal Road, Arasikere Tq. Hassan Dist 573 125"
+    "address": "Coconut merchant, Haranahally at & po, Javagal Road, Arasikere Tq. Hassan Dist 573 125",
+    "status": "Active"
   },
   {
+    "memberId": "MEM042",
     "name": "Sri Marulappa",
-    "address": "Dept of Judiciary, Behind Mini Vidhana soudha, Arasikere at & po. Hassan Dist. 573 103"
+    "address": "Dept of Judiciary, Behind Mini Vidhana soudha, Arasikere at & po. Hassan Dist. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM043",
     "name": "Sri Mallikarjuna Vakkalagere at & po. Yagati hobli",
-    "address": "Kadur Tq, CKM Dist., 577 140"
+    "address": "Kadur Tq, CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM044",
     "name": "Smt. Mallamma",
-    "address": "Ex-Gram panchayath member, Talalur po. Hosur, Arasikere Tq. Hassan Dist. 573 103"
+    "address": "Ex-Gram panchayath member, Talalur po. Hosur, Arasikere Tq. Hassan Dist. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM045",
     "name": "Sri H.S.Mallikarjunappa Habbanaghatta",
-    "address": "T.Kodihally po. Arasikere Tq. Hassan Dist. 573 103"
+    "address": "T.Kodihally po. Arasikere Tq. Hassan Dist. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM046",
     "name": "Sri Mallikarjuna",
-    "address": "DCC bank pigmi agent Kote, Banavara at & po. Arasikere Tq. Hassan Dist. 573 112"
+    "address": "DCC bank pigmi agent Kote, Banavara at & po. Arasikere Tq. Hassan Dist. 573 112",
+    "status": "Active"
   },
   {
+    "memberId": "MEM047",
     "name": "Sri. Mohan Kumar",
-    "address": "C/o HosallaiahNo.6, 7th cross, Ullal main road, Muneshwaranagar, Gnanajyothinagar Po. Bengaluru 560 056"
+    "address": "C/o HosallaiahNo.6, 7th cross, Ullal main road, Muneshwaranagar, Gnanajyothinagar Po. Bengaluru 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM048",
     "name": "Sri..Y.P.Malleshappa",
-    "address": "Yagati at & Po. Kadur Tq, CKM Dist., 577 140"
+    "address": "Yagati at & Po. Kadur Tq, CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM049",
     "name": "Sri. H Mahesh Kumar",
-    "address": "# 147 1st Floor, JS.NagarNear Susheela Naidu Kalyana Mantapa,Nandini Layout, Bengaluru -86"
+    "address": "# 147 1st Floor, JS.NagarNear Susheela Naidu Kalyana Mantapa,Nandini Layout, Bengaluru -86",
+    "status": "Active"
   },
   {
+    "memberId": "MEM050",
     "name": "Sri. H.Ningappa",
-    "address": "# 97, Teachers Colony,BSK 2nd Stage, Bengaluru- 560 070"
+    "address": "# 97, Teachers Colony,BSK 2nd Stage, Bengaluru- 560 070",
+    "status": "Active"
   },
   {
+    "memberId": "MEM051",
     "name": "Sri. C.Murulidhar",
-    "address": "C/o G.T.ShivannaM/s Digitek Knitters, # 61, NS Palya,5th Main, Banneraghatta road,Bengaluru 560 076"
+    "address": "C/o G.T.ShivannaM/s Digitek Knitters, # 61, NS Palya,5th Main, Banneraghatta road,Bengaluru 560 076",
+    "status": "Active"
   },
   {
+    "memberId": "MEM052",
     "name": "Sri. P.Maheshappa",
-    "address": "# 19 `Ranganatha Nilaya 1st A Main, Anjaneya Temple Rd.Mudalapalya Bengaluru 560 072"
+    "address": "# 19 `Ranganatha Nilaya 1st A Main, Anjaneya Temple Rd.Mudalapalya Bengaluru 560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM053",
     "name": "Sri. Mallikarjunaiah",
-    "address": "# 126, 40 feet road, Prasanna layout, Mahadeswaranagar Bengaluru 560 091"
+    "address": "# 126, 40 feet road, Prasanna layout, Mahadeswaranagar Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM054",
     "name": "Sri.K.Puttaveerappa",
-    "address": "Kodihally, Kora Po.Kestur Hobli, Tumakuru Tq. 572 128"
+    "address": "Kodihally, Kora Po.Kestur Hobli, Tumakuru Tq. 572 128",
+    "status": "Active"
   },
   {
+    "memberId": "MEM055",
     "name": "Sri. K.P.Manjunath",
-    "address": "# 42/A & B, M/s Akashdoot Vayapur Pvt.Ltd1st Main, 4th Cross, 3rd phase,J.P Nagar Ind.Layout, Bengaluru -560 072"
+    "address": "# 42/A & B, M/s Akashdoot Vayapur Pvt.Ltd1st Main, 4th Cross, 3rd phase,J.P Nagar Ind.Layout, Bengaluru -560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM056",
     "name": "Sri.M. Manjunath s/o T.R.Mahadevaiah",
-    "address": "# 12, Navya, 4th Cross, SridevinagarMagadi main rd, Gollarahatty, Bengaluru 560 091"
+    "address": "# 12, Navya, 4th Cross, SridevinagarMagadi main rd, Gollarahatty, Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM057",
     "name": "Sri. K.N.Manjunath s/o B.NanjappaKudlur at & po.",
-    "address": "Tarikere Tq, CKM Dist. 577 157"
+    "address": "Tarikere Tq, CKM Dist. 577 157",
+    "status": "Active"
   },
   {
+    "memberId": "MEM058",
     "name": "Sri. C.U..Marulasiddaiah s/o Ujjanappa. Doddabanagere at & po.",
-    "address": "CN Hally Tq, Tumkur Dist. 572 119"
+    "address": "CN Hally Tq, Tumkur Dist. 572 119",
+    "status": "Active"
   },
   {
+    "memberId": "MEM059",
     "name": "Sri.H.Manjunath",
-    "address": "# 13/ A-2, 1st Cross,Sonnegowda layout, Kodigehally main road, Bengaluru 92"
+    "address": "# 13/ A-2, 1st Cross,Sonnegowda layout, Kodigehally main road, Bengaluru 92",
+    "status": "Active"
   },
   {
+    "memberId": "MEM060",
     "name": "Sri. B.Nagabhushanappa",
-    "address": "S/o BasappaGunamarabagilu At & po. MadakasiraTq. Ananthapur Dist. A.P. 515 301"
+    "address": "S/o BasappaGunamarabagilu At & po. MadakasiraTq. Ananthapur Dist. A.P. 515 301",
+    "status": "Active"
   },
   {
+    "memberId": "MEM061",
     "name": "Sri. B.N.NagarajVijaya tailors",
-    "address": "Behind Railway church, Church colony, Arasikere 573 103"
+    "address": "Behind Railway church, Church colony, Arasikere 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM062",
     "name": "Sri. Nanjundappa s/o Shankarappa Sri Bilikallu Ranganatha swamy kshetra",
-    "address": "Nagavedi Po. .Kanakatte Hobli, Arasikere Tq. Hassan Dist 573 12"
+    "address": "Nagavedi Po. .Kanakatte Hobli, Arasikere Tq. Hassan Dist 573 12",
+    "status": "Active"
   },
   {
+    "memberId": "MEM063",
     "name": "Sri. H.S.Nanjappa",
-    "address": "# 4419, Vallabhabai Road, 1st cross, Hassan 573 201"
+    "address": "# 4419, Vallabhabai Road, 1st cross, Hassan 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM064",
     "name": "Sri. K.V.Nataraj",
-    "address": "# 43, Chandra mouleshwara Extn., Kyathsandra at &Po. Tumkur Tq. & Dist 572 104"
+    "address": "# 43, Chandra mouleshwara Extn., Kyathsandra at &Po. Tumkur Tq. & Dist 572 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM065",
     "name": "Sri. K.R.Nagesh",
-    "address": "# 336, 10th Cross, ML Puram Po. Bengaluru- 560 086"
+    "address": "# 336, 10th Cross, ML Puram Po. Bengaluru- 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM066",
     "name": "Sri. H.K.Nataraj",
-    "address": "Teacher, 5th cross,Behind veerabhadreswara temple, Malleswaranagar, Arasikere at & po. Hassan Dist. 573 103"
+    "address": "Teacher, 5th cross,Behind veerabhadreswara temple, Malleswaranagar, Arasikere at & po. Hassan Dist. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM067",
     "name": "Sri. S.Nagaraj",
-    "address": "S/o Sannananjappa Kathalemane, Edenahally, Tiptur Tq Tumkur Dist 572 202"
+    "address": "S/o Sannananjappa Kathalemane, Edenahally, Tiptur Tq Tumkur Dist 572 202",
+    "status": "Active"
   },
   {
+    "memberId": "MEM068",
     "name": "Sri E.Nagaraju",
-    "address": "FDA,Sri Honnadevi Govt PU college, Dandinashivara, TuruvekereTq, Tumkur Dist 572 215"
+    "address": "FDA,Sri Honnadevi Govt PU college, Dandinashivara, TuruvekereTq, Tumkur Dist 572 215",
+    "status": "Active"
   },
   {
+    "memberId": "MEM069",
     "name": "Sri Y.P.Omkara MurthyYagati at & Po. Kadur Tq",
-    "address": "CKM Dist., 577 140"
+    "address": "CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM070",
     "name": "Sri B.C.Omkara Murthy s/o Channabasavaiah Balavaneralu at & Po. Tiptur Tq",
-    "address": "Tumkur Dist., 572 217"
+    "address": "Tumkur Dist., 572 217",
+    "status": "Active"
   },
   {
+    "memberId": "MEM071",
     "name": "Sri Omkara Murthy s/o Basavaraju.D Navile Thimmapura",
-    "address": "Nagaranavile Po. CR Patna Tq. Hassan Dist., 573 131"
+    "address": "Nagaranavile Po. CR Patna Tq. Hassan Dist., 573 131",
+    "status": "Active"
   },
   {
+    "memberId": "MEM072",
     "name": "Sri H.K.Omkarappa",
-    "address": "Chaitra Nilaya, Ganapathy Extn., Sakaraya patna, Kadur Tq, CKM Dist., 577 135"
+    "address": "Chaitra Nilaya, Ganapathy Extn., Sakaraya patna, Kadur Tq, CKM Dist., 577 135",
+    "status": "Active"
   },
   {
+    "memberId": "MEM073",
     "name": "Sri.H.S.Parameswarappa",
-    "address": "Press reporter Hale pet, Honnalappa beedi,Kadur at & po. 577 548"
+    "address": "Press reporter Hale pet, Honnalappa beedi,Kadur at & po. 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM074",
     "name": "Sri. H.R.Prasanna Kumar",
-    "address": "# 766, 4th Cross, 10th Main, RBI layout J.P.Nagar 7th phase, Bengaluru 78"
+    "address": "# 766, 4th Cross, 10th Main, RBI layout J.P.Nagar 7th phase, Bengaluru 78",
+    "status": "Active"
   },
   {
+    "memberId": "MEM075",
     "name": "Sri.B.C.Prasanna Kumar s/o Chandrappa Bagilaghatta",
-    "address": "Banavara po. Arasikere Tq, Hassan Dist. 573 112"
+    "address": "Banavara po. Arasikere Tq, Hassan Dist. 573 112",
+    "status": "Active"
   },
   {
+    "memberId": "MEM076",
     "name": "Sri.Palanetra c/o Veerashayana M.V",
-    "address": "# 293, 5th Main, ML Puram Po. Bengaluru- 560 086"
+    "address": "# 293, 5th Main, ML Puram Po. Bengaluru- 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM077",
     "name": "Sri.N.Puttaramaiah",
-    "address": "Rtd Teacher, Near Sri Prasanna Rameswara Temple, Kote, Belagur Po,Hosadurga Tq. Chitradurga Dist 573 114"
+    "address": "Rtd Teacher, Near Sri Prasanna Rameswara Temple, Kote, Belagur Po,Hosadurga Tq. Chitradurga Dist 573 114",
+    "status": "Active"
   },
   {
+    "memberId": "MEM078",
     "name": "Sri S.R.Chandramohan",
-    "address": "Somagadda, Challakere Tq., Chitradurga Dist. 577 522 Mob:9916828462"
+    "address": "Somagadda, Challakere Tq., Chitradurga Dist. 577 522 Mob:9916828462",
+    "status": "Active"
   },
   {
+    "memberId": "MEM079",
     "name": "Sri. P.S.Puttaswamy s/o Siddappa",
-    "address": "# 19, Nagappa road, Sheshadripuram , Bengaluru 560 020"
+    "address": "# 19, Nagappa road, Sheshadripuram , Bengaluru 560 020",
+    "status": "Active"
   },
   {
+    "memberId": "MEM080",
     "name": "Sri.H.R.Pranesh",
-    "address": "S/o H.S.Rajanna Honnavally at & Po, Tiptur Tq. Tumkur Dist. 572 217"
+    "address": "S/o H.S.Rajanna Honnavally at & Po, Tiptur Tq. Tumkur Dist. 572 217",
+    "status": "Active"
   },
   {
+    "memberId": "MEM081",
     "name": "Smt. Pushpa Aradhya",
-    "address": "# 769, 7th A Cross, A Sector 3rd Phase Yelahanka new town. Bangalore 560 064"
+    "address": "# 769, 7th A Cross, A Sector 3rd Phase Yelahanka new town. Bangalore 560 064",
+    "status": "Active"
   },
   {
+    "memberId": "MEM082",
     "name": "Sri. B.Pramod s/o Basavaraju",
-    "address": "# G4, JC RUBY Apartment Jayalakshamma Layout, Nagarabhavi 2nd stage, Bengaluru 560 072"
+    "address": "# G4, JC RUBY Apartment Jayalakshamma Layout, Nagarabhavi 2nd stage, Bengaluru 560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM083",
     "name": "Sri. Rajappa Rtd JE",
-    "address": "BESCOM # 47/2, I Cross,10th Main, Shivanagar, Rajajinagar PoBengaluru 560 010"
+    "address": "BESCOM # 47/2, I Cross,10th Main, Shivanagar, Rajajinagar PoBengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM084",
     "name": "Sri. Rajashekhar",
-    "address": "Ex NGEF# 3797, 12th Cross, 2nd Main, Gayatrinagar, Bengaluru 560 021"
+    "address": "Ex NGEF# 3797, 12th Cross, 2nd Main, Gayatrinagar, Bengaluru 560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM085",
     "name": "Sri.Mohan Veerappa Gadad",
-    "address": "M.Sc #385, 1st floor,10th C Cross, W-O-C Rd, Mahalaxmipuram, Bangalore 560 086"
+    "address": "M.Sc #385, 1st floor,10th C Cross, W-O-C Rd, Mahalaxmipuram, Bangalore 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM086",
     "name": "Sri. K.K.Renukaprasad",
-    "address": "Rtd JE, # 4, 20th cross, 1st and III block, (East) KHB colony, Jayanagar, Bengalur-560 011"
+    "address": "Rtd JE, # 4, 20th cross, 1st and III block, (East) KHB colony, Jayanagar, Bengalur-560 011",
+    "status": "Active"
   },
   {
+    "memberId": "MEM087",
     "name": "Sri. D.C.Ramalingappa",
-    "address": "# 70, 1st Cross, 1st Main, Hosakerehally, Hrushikeshinagar, Bengaluru 560 085"
+    "address": "# 70, 1st Cross, 1st Main, Hosakerehally, Hrushikeshinagar, Bengaluru 560 085",
+    "status": "Active"
   },
   {
+    "memberId": "MEM088",
     "name": "Sri. K.H.RevanasiddappaKudlur at & po.",
-    "address": "Tarikere Tq, CKM Dist. 577 157"
+    "address": "Tarikere Tq, CKM Dist. 577 157",
+    "status": "Active"
   },
   {
+    "memberId": "MEM089",
     "name": "Smt. Rathnamma",
-    "address": "w/o M.S Shivalingappa, Rtd.Military personAgrahara Extn. Banavara at & Po. Arasikere Tq. 573 103"
+    "address": "w/o M.S Shivalingappa, Rtd.Military personAgrahara Extn. Banavara at & Po. Arasikere Tq. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM090",
     "name": "Sri. Rajanna (Hotel)",
-    "address": "# 3447, Dattatreya compound. Laxmipuram Arasikere 573 103"
+    "address": "# 3447, Dattatreya compound. Laxmipuram Arasikere 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM091",
     "name": "Sri. Rudresh ( Court Typist)",
-    "address": "Behind mini vidhana soudha, Arasikere at & Po. 573 103"
+    "address": "Behind mini vidhana soudha, Arasikere at & Po. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM092",
     "name": "Sri. K.H.Rajashekharappa",
-    "address": "# 166, 3rd Main, AMCO LayoutSahakarinagar Po, Bengaluru 560 094"
+    "address": "# 166, 3rd Main, AMCO LayoutSahakarinagar Po, Bengaluru 560 094",
+    "status": "Active"
   },
   {
+    "memberId": "MEM093",
     "name": "Sri.K.Ramesh ( S.R.Chandrakala) Kalleswara Nilaya",
-    "address": "Keshavanagar, Sira at & po. Tumakuru Dist. . 572 137,"
+    "address": "Keshavanagar, Sira at & po. Tumakuru Dist. . 572 137,",
+    "status": "Active"
   },
   {
+    "memberId": "MEM094",
     "name": "Sri.S.V.Rajanna s/o Kotturappa Shettykere at & po.",
-    "address": "C.N.Hally Tq., Tumakuru Dist. . 572 226"
+    "address": "C.N.Hally Tq., Tumakuru Dist. . 572 226",
+    "status": "Active"
   },
   {
+    "memberId": "MEM095",
     "name": "Sri.Rajashekar s/o Basappa",
-    "address": "Teacher, Aralaguppe at & po Tiptur Tq., Tumkur Dist., 572 212"
+    "address": "Teacher, Aralaguppe at & po Tiptur Tq., Tumkur Dist., 572 212",
+    "status": "Active"
   },
   {
+    "memberId": "MEM096",
     "name": "Sri. G.R.Siddappa",
-    "address": "# 73, 4th Main, 2nd PhaseManjunathanagar, Rajajinagar PoBengaluru 560 010"
+    "address": "# 73, 4th Main, 2nd PhaseManjunathanagar, Rajajinagar PoBengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM097",
     "name": "Sri. K.M.Siddamallappa",
-    "address": "# 4, 5th `A Main, Escort LayoutAttur, Yelahanka new townBengaluru 560 106"
+    "address": "# 4, 5th `A Main, Escort LayoutAttur, Yelahanka new townBengaluru 560 106",
+    "status": "Active"
   },
   {
+    "memberId": "MEM098",
     "name": "Sri. T.R.Shivanna",
-    "address": "Ex-BHEL # 177, 6th Main, REMCO layout, Hampinagar, Bengaluru 560 104"
+    "address": "Ex-BHEL # 177, 6th Main, REMCO layout, Hampinagar, Bengaluru 560 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM099",
     "name": "Sri. S.Siddaramappa",
-    "address": "Teacher Amarapura at & po., Madakasira Tq.,. Ananthapur Dist. A.P. 515 281"
+    "address": "Teacher Amarapura at & po., Madakasira Tq.,. Ananthapur Dist. A.P. 515 281",
+    "status": "Active"
   },
   {
+    "memberId": "MEM100",
     "name": "Sri. B.K.Shivananjappa s/o Kallappa",
-    "address": "Bisilere at & Po, Kadur Tq.,CKM Dist..577 548"
+    "address": "Bisilere at & Po, Kadur Tq.,CKM Dist..577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM101",
     "name": "Sri. Siddappa",
-    "address": "S/o Late MarulappaLaxmidevarahally, Sulekere Po.Arasikere Tq., 573 103"
+    "address": "S/o Late MarulappaLaxmidevarahally, Sulekere Po.Arasikere Tq., 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM102",
     "name": "Sri. Siddappa",
-    "address": "S/o Late RudrappaBangaragere, Muddenahally Po. CN.Hally Tq., Tumakuru Dist. 572 214"
+    "address": "S/o Late RudrappaBangaragere, Muddenahally Po. CN.Hally Tq., Tumakuru Dist. 572 214",
+    "status": "Active"
   },
   {
+    "memberId": "MEM103",
     "name": "Sri. Shivanna",
-    "address": "Onion merchantHaranahally at & Po, Javagal RoadArasikere Tq. Hassan Dist 573 125"
+    "address": "Onion merchantHaranahally at & Po, Javagal RoadArasikere Tq. Hassan Dist 573 125",
+    "status": "Active"
   },
   {
+    "memberId": "MEM104",
     "name": "Sri. T.K.Shivalingappa",
-    "address": "# 98,5th cross, Labour colony Davanagere at & po. 577 002  9886021213"
+    "address": "# 98,5th cross, Labour colony Davanagere at & po. 577 0029886021213",
+    "status": "Active"
   },
   {
+    "memberId": "MEM105",
     "name": "Sri. H.S.Shivalingappa",
-    "address": "Onion merchantHaranahally at & Po, Javagal RoadArasikere Tq. Hassan Dist, 573 125"
+    "address": "Onion merchantHaranahally at & Po, Javagal RoadArasikere Tq. Hassan Dist, 573 125",
+    "status": "Active"
   },
   {
+    "memberId": "MEM106",
     "name": "Sri. Siddaiah",
-    "address": "S/o Late ShivannaSulekere at & po, Arasikere Tq. Hassan Dist, 573 203"
+    "address": "S/o Late ShivannaSulekere at & po, Arasikere Tq. Hassan Dist, 573 203",
+    "status": "Active"
   },
   {
+    "memberId": "MEM107",
     "name": "Sri. T.S.Ravikumar s/o T",
-    "address": "R.Siddappa Tandaga at & po. Turuvekere TqTumkur Dist., 572 224"
+    "address": "R.Siddappa Tandaga at & po. Turuvekere TqTumkur Dist., 572 224",
+    "status": "Active"
   },
   {
+    "memberId": "MEM108",
     "name": "Sri. G.M.Satish",
-    "address": "S/o G.N. Marulasiddappa Garje at & Po, Kadur Tq., CKM Dist.. 577 140"
+    "address": "S/o G.N. Marulasiddappa Garje at & Po, Kadur Tq., CKM Dist.. 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM109",
     "name": "Sri. G.Shivalingaiah",
-    "address": "Rtd. Jr Engr, PWD # 385, `Shiva krupa` 3rd Cross,2nd Link SIT extn, Tumakuru at & Po, 572 102"
+    "address": "Rtd. Jr Engr, PWD # 385, `Shiva krupa` 3rd Cross,2nd Link SIT extn, Tumakuru at & Po, 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM110",
     "name": "Smt. S.Shivakamini",
-    "address": "# 293, 5th Main, Mahalakshmi Puram, Bengaluru 560 086"
+    "address": "# 293, 5th Main, Mahalakshmi Puram, Bengaluru 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM111",
     "name": "Smt. Sarojamma MarulappaHallikere",
-    "address": "Dinkanahally Po. CN.Hally Tq., Tumakuru Dist. 572 214"
+    "address": "Dinkanahally Po. CN.Hally Tq., Tumakuru Dist. 572 214",
+    "status": "Active"
   },
   {
+    "memberId": "MEM112",
     "name": "Sri. H.S. Satish (H.S.Puttaraju)",
-    "address": "# 3/9, ALS / SFHS, BDA Aptmts, Nandini layout , Bengaluru 560 096"
+    "address": "# 3/9, ALS / SFHS, BDA Aptmts, Nandini layout , Bengaluru 560 096",
+    "status": "Active"
   },
   {
+    "memberId": "MEM113",
     "name": "Sri. B.Shiva kumar s/o Basavarajappa (Rajanna) Ex-Serviceman",
-    "address": "Shivanilaya Melekote road, Tumakuru 572 101"
+    "address": "Shivanilaya Melekote road, Tumakuru 572 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM114",
     "name": "Smt.Sumangala",
-    "address": "W/o Shivakumar. P C/o K.H.Shivarudraiah, 2nd Cross Basaveswara Extn,Kyathsandra at & Po. Tumakuru Tq & Dist., 572 104"
+    "address": "W/o Shivakumar. P C/o K.H.Shivarudraiah, 2nd Cross Basaveswara Extn,Kyathsandra at & Po. Tumakuru Tq & Dist., 572 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM115",
     "name": "Sri. K.G.Shivaprakash s/o Ujjanappa",
-    "address": "Doddaennegere At & po, CN Hally Tq. Tumkur Dist 572 214"
+    "address": "Doddaennegere At & po, CN Hally Tq. Tumkur Dist 572 214",
+    "status": "Active"
   },
   {
+    "memberId": "MEM116",
     "name": "Sri. T.S.Shashikumar s/o T",
-    "address": "R.Siddappa Tandaga at & po. Turuvekere TqTumkur Dist., 572 224"
+    "address": "R.Siddappa Tandaga at & po. Turuvekere TqTumkur Dist., 572 224",
+    "status": "Active"
   },
   {
+    "memberId": "MEM117",
     "name": "Sri. G.T.Shivanna",
-    "address": "# 61, Digitek Knitters, NS Palya5th Main, Banneraghatta RoadBengaluru 560 076"
+    "address": "# 61, Digitek Knitters, NS Palya5th Main, Banneraghatta RoadBengaluru 560 076",
+    "status": "Active"
   },
   {
+    "memberId": "MEM118",
     "name": "Sri. Siddaraju",
-    "address": "# 152, 2nd A Cross, 5th Main, Rukmininagar, Nagasandra Po. Bengaluru 560 073"
+    "address": "# 152, 2nd A Cross, 5th Main, Rukmininagar, Nagasandra Po. Bengaluru 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM119",
     "name": "Sri. Shankar M. Shettigar",
-    "address": "# 104/12, Opp KBS No.24, Mahanteshnagar, Belgaum- 590 016"
+    "address": "# 104/12, Opp KBS No.24, Mahanteshnagar, Belgaum- 590 016",
+    "status": "Active"
   },
   {
+    "memberId": "MEM120",
     "name": "Sri. Sadashivaiah",
-    "address": "(Hotel)Murundi at & po. Arasikere Tq. Hassan Dist. 573 122"
+    "address": "(Hotel)Murundi at & po. Arasikere Tq. Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM121",
     "name": "Smt. Shylaja Rudrappa",
-    "address": "D/o R.Shivanna # 71, 2nd Cross, 4th Blk, BSK 3rd stage, 3rd Phase,Bengaluru 560 085"
+    "address": "D/o R.Shivanna # 71, 2nd Cross, 4th Blk, BSK 3rd stage, 3rd Phase,Bengaluru 560 085",
+    "status": "Active"
   },
   {
+    "memberId": "MEM122",
     "name": "Sri. M. Suresh",
-    "address": "# 34,3rd cross, Mahadeswaranagar II stageMaruthinagar, Near Alfred school, Viswaneedam po. Bengaluru-91"
+    "address": "# 34,3rd cross, Mahadeswaranagar II stageMaruthinagar, Near Alfred school, Viswaneedam po. Bengaluru-91",
+    "status": "Active"
   },
   {
+    "memberId": "MEM123",
     "name": "Sri. P.Thippeswamy",
-    "address": "# 50, Ganga Aptmts, 1st Main, 7th Cross, Ganganagar Extn., Bengaluru 560 032"
+    "address": "# 50, Ganga Aptmts, 1st Main, 7th Cross, Ganganagar Extn., Bengaluru 560 032",
+    "status": "Active"
   },
   {
+    "memberId": "MEM124",
     "name": "Sri. H.Umashankar",
-    "address": "# 28, 1st Main, Maruthi Extn.Bengaluru 560 021"
+    "address": "# 28, 1st Main, Maruthi Extn.Bengaluru 560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM125",
     "name": "Sri. S.B.Vedamurthy",
-    "address": "# 166, Anu, Between 1st & 2nd cross,Kalappa layout main Rd, Basavanagar, Bengaluru 560 037"
+    "address": "# 166, Anu, Between 1st & 2nd cross,Kalappa layout main Rd, Basavanagar, Bengaluru 560 037",
+    "status": "Active"
   },
   {
+    "memberId": "MEM126",
     "name": "Sri. G.R.Veeranna",
-    "address": "Ex-BMTC# 207,1st Main, 5th CrossKumara swamy layout 2nd stageBengaluru 560 078"
+    "address": "Ex-BMTC# 207,1st Main, 5th CrossKumara swamy layout 2nd stageBengaluru 560 078",
+    "status": "Active"
   },
   {
+    "memberId": "MEM127",
     "name": "Sri. S.Vageesha Murthy",
-    "address": "# 248, 5TH cross,9TH main,2ND BlkHMT Layout, Vidyaranyapura Bengaluru 560 097"
+    "address": "# 248, 5TH cross,9TH main,2ND BlkHMT Layout, Vidyaranyapura Bengaluru 560 097",
+    "status": "Active"
   },
   {
+    "memberId": "MEM128",
     "name": "Smt. Sharadamma R RudraiahVeerabhadraswamy Nilaya",
-    "address": "6th CrossAshoknagar, Tumkur 572 102"
+    "address": "6th CrossAshoknagar, Tumkur 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM129",
     "name": "Sri. Virupaksha B.S.",
-    "address": "# 1775, 22nd CrossMiracle marketing, Govindarajanagar Bengaluru- 560 040"
+    "address": "# 1775, 22nd CrossMiracle marketing, Govindarajanagar Bengaluru- 560 040",
+    "status": "Active"
   },
   {
+    "memberId": "MEM130",
     "name": "Sri. K.S.Veeranna",
-    "address": "# 97, Delux Roadlines road,Madanayakanahally, Madavara poBengaluru North Tq, 562101"
+    "address": "# 97, Delux Roadlines road,Madanayakanahally, Madavara poBengaluru North Tq, 562101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM131",
     "name": "Sri. K.P.Basavaraju",
-    "address": "# 202/1, 1st Main, 5th Cross Manjunathanagar, Rajajinagar po, Bengaluru 560 010"
+    "address": "# 202/1, 1st Main, 5th Cross Manjunathanagar, Rajajinagar po, Bengaluru 560 010UkNama: H.S.Nijagunaiah# 94, 9th cross, 1st Main, Gutte Basaveshwara road,Raghavendra layout, Near JMM E School Chikkabanavara, Bengaluru - 560 090 9449149392",
+    "status": "Active"
   },
   {
-    "name": "Sri. H.S.Nijagunaiah",
-    "address": "# 94, 9th cross, 1st Main, Gutte Basaveshwara road,Raghavendra layout, Near JMM E School Chikkabanavara, Bengaluru - 560 090    9449149392"
-  },
-  {
+    "memberId": "MEM132",
     "name": "Sri. Anil Kumar",
-    "address": "# 502, South 3rd Road, B-Area, ITI Colony, Dooravaninagar, Bengaluru 560 016"
+    "address": "# 502, South 3rd Road, B-Area, ITI Colony, Dooravaninagar, Bengaluru 560 016",
+    "status": "Active"
   },
   {
+    "memberId": "MEM133",
     "name": "Sri.Shivalingaiah",
-    "address": "# 188, 6th Main, Vidyagirinagar Extn, Nagarabhavi , Bengaluru 560 0729611830113"
+    "address": "# 188, 6th Main, Vidyagirinagar Extn, Nagarabhavi , Bengaluru 560 0729611830113",
+    "status": "Active"
   },
   {
+    "memberId": "MEM134",
     "name": "Sri. P.C.Vishwanath s/o ChandrappaDoddapattagere at & Po. Kadur Tq.",
-    "address": "CKM Dist.. 577 548"
+    "address": "CKM Dist.. 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM135",
     "name": "Sri. K.Pratap Kumar",
-    "address": "# 685, 5th Block, 61st Cross Rajajinagar, Bengaluru 560 010"
+    "address": "# 685, 5th Block, 61st Cross Rajajinagar, Bengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM136",
     "name": "Sri. M.Umapathy",
-    "address": "Sri Shivakumar Swamiji Road Madanayakanahally, Madavara po.Bengaluru North 562 123"
+    "address": "Sri Shivakumar Swamiji Road Madanayakanahally, Madavara po.Bengaluru North 562 123",
+    "status": "Active"
   },
   {
+    "memberId": "MEM137",
     "name": "Sri. Udayakumar s/o Late RamannaNarasipura",
-    "address": "Kukate Hobli, Hiresadarahally Po. Arasikere TQ. Hassan Dist. 573 114"
+    "address": "Kukate Hobli, Hiresadarahally Po. Arasikere TQ. Hassan Dist. 573 114",
+    "status": "Active"
   },
   {
+    "memberId": "MEM138",
     "name": "Sri..G..R.Chandrashekharappa",
-    "address": "#18, 4th Cross, Shanthi Extn Main Road,Ramamurthynagar, Bengaluru 560 016"
+    "address": "#18, 4th Cross, Shanthi Extn Main Road,Ramamurthynagar, Bengaluru 560 016",
+    "status": "Active"
   },
   {
+    "memberId": "MEM139",
     "name": "Sri. Jayashankaraiah",
-    "address": "m- 9880593438# 929, 5th cross, 5th stage, BEML LayoutII phase, RR Nagar, Bengaluru 560 098"
+    "address": "m- 9880593438# 929, 5th cross, 5th stage, BEML LayoutII phase, RR Nagar, Bengaluru 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM140",
     "name": "Sri. K.P.Basavaraju",
-    "address": "# 775, 2nd Main, 5th cross, LaggereMuneshwara Extn, Bengaluru 560 058"
+    "address": "# 775, 2nd Main, 5th cross, LaggereMuneshwara Extn, Bengaluru 560 058",
+    "status": "Active"
   },
   {
+    "memberId": "MEM141",
     "name": "Sri. S.Ravikumar",
-    "address": "# 14, 10th `C` cross, JC Nagar,3rd stage, 4th Blk, Basaveshwaranagar Bengaluru 560 079"
+    "address": "# 14, 10th `C` cross, JC Nagar,3rd stage, 4th Blk, Basaveshwaranagar Bengaluru 560 079",
+    "status": "Active"
   },
   {
+    "memberId": "MEM142",
     "name": "Sri. K.P.Ramesh",
-    "address": "# 126, 40th Main, MahadeshwaranagarPrasanna layout, Vishwaneedam Po. Bengaluru 560 091"
+    "address": "# 126, 40th Main, MahadeshwaranagarPrasanna layout, Vishwaneedam Po. Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM143",
     "name": "Sri. K.S.Mahesha",
-    "address": "# 19, Marappa layout, 2nd Main, Rajarajeshwarinagar, Bengaluru 560 098"
+    "address": "# 19, Marappa layout, 2nd Main, Rajarajeshwarinagar, Bengaluru 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM144",
     "name": "Sri. A.B.Shivakumar`Panchajanya",
-    "address": "# 16/591, 3rd main, 8th C Cross, Shanthinagar, Hassan 573 201 mob; 9448957522"
+    "address": "# 16/591, 3rd main, 8th C Cross, Shanthinagar, Hassan 573 201 mob; 9448957522",
+    "status": "Active"
   },
   {
+    "memberId": "MEM145",
     "name": "Sri. Madhu.K.C",
-    "address": "# 18, 2nd Main, Marappa LayoutRR Nagar, Bengaluru 560 098"
+    "address": "# 18, 2nd Main, Marappa LayoutRR Nagar, Bengaluru 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM146",
     "name": "Smt. Pavani C.N",
-    "address": "W/o Madhu.K.C# 18, 2nd Main, Marappa LayoutRR Nagar, Bengaluru 560 098"
+    "address": "W/o Madhu.K.C# 18, 2nd Main, Marappa LayoutRR Nagar, Bengaluru 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM147",
     "name": "Sri. S.Shivanna",
-    "address": "# 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015"
+    "address": "# 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015",
+    "status": "Active"
   },
   {
+    "memberId": "MEM148",
     "name": "Sri..Renukappa Rtd.Lecturer Pura",
-    "address": "Mysore Main Road, Nittur poGubbi Tq. Tumkur Dist 572 223"
+    "address": "Mysore Main Road, Nittur poGubbi Tq. Tumkur Dist 572 223",
+    "status": "Active"
   },
   {
+    "memberId": "MEM149",
     "name": "Sri. S.Manjunath",
-    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015"
+    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015",
+    "status": "Active"
   },
   {
+    "memberId": "MEM150",
     "name": "Sri. S.Girish",
-    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015"
+    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015",
+    "status": "Active"
   },
   {
+    "memberId": "MEM151",
     "name": "Sri. S.Ramesh",
-    "address": "S/o Shivanna, # 23,12th Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015"
+    "address": "S/o Shivanna, # 23,12th Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015",
+    "status": "Active"
   },
   {
+    "memberId": "MEM152",
     "name": "Sri. S.Devaraju",
-    "address": "# 273/M, 1st Floor,1st B Cross, , Chowdeswari temple Rd, HMT Layout, Mathikere Po. Bengaluru - 560 054"
+    "address": "# 273/M, 1st Floor,1st B Cross, , Chowdeswari temple Rd, HMT Layout, Mathikere Po. Bengaluru - 560 054",
+    "status": "Active"
   },
   {
+    "memberId": "MEM153",
     "name": "Sri. K.P.Ramesh",
-    "address": "# 126, 40 ft main, MahadeswaranagarPrasanna layout, Vishwaneedam po. Bengaluru 560 091"
+    "address": "# 126, 40 ft main, MahadeswaranagarPrasanna layout, Vishwaneedam po. Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM154",
     "name": "Sri. B.Palakshappa",
-    "address": "Rtd Teacher, # 153, Madhuranagar, Thorahunise Po., Via Varthur, Bengaluru 560 087"
+    "address": "Rtd Teacher, # 153, Madhuranagar, Thorahunise Po., Via Varthur, Bengaluru 560 087",
+    "status": "Active"
   },
   {
+    "memberId": "MEM155",
     "name": "Sri. Y.R.Ambarish c/o Doddasiddaiah 4th B Cross",
-    "address": "40 Feet Road, Maruthinagar Tumkur 572 102"
+    "address": "40 Feet Road, Maruthinagar Tumkur 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM156",
     "name": "Sri. Basaveswara Kumar",
-    "address": "Landlord Kadaba at & po, Gubbi Tq,Tumkur Dist, 572 219"
+    "address": "Landlord Kadaba at & po, Gubbi Tq,Tumkur Dist, 572 219",
+    "status": "Active"
   },
   {
+    "memberId": "MEM157",
     "name": "Sri. K.A.Basavaraju s/o Adavappa c/o Mallappa",
-    "address": "Karagada at & po, Belur Tq., Hassan Dist 573 115"
+    "address": "Karagada at & po, Belur Tq., Hassan Dist 573 115",
+    "status": "Active"
   },
   {
+    "memberId": "MEM158",
     "name": "Sri..Basavaraju",
-    "address": "S/o Jayamma, Goppenahally, Kondajji Po., Turuvekere Tq. Tumakuru Dist ."
+    "address": "S/o Jayamma, Goppenahally, Kondajji Po., Turuvekere Tq. Tumakuru Dist .",
+    "status": "Active"
   },
   {
+    "memberId": "MEM159",
     "name": "Sri. Basavarajappa Navaratna",
-    "address": "# 202/1, 5th Cross, 1st Main, Manjunathanagar, Bangalore 560 010"
+    "address": "# 202/1, 5th Cross, 1st Main, Manjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM160",
     "name": "Sri. Basavaraju. V.E",
-    "address": "# 363/A, 5th Main, 3rd Phase Manjunathanagar, Bangalore 560 010"
+    "address": "# 363/A, 5th Main, 3rd Phase Manjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM161",
     "name": "Sri..B.C.Channabasappa Sri Veerabhadreswara NilayaLIG -21",
-    "address": "KHB Colony, Vinoba nagarSHIMOGA 577 201"
+    "address": "KHB Colony, Vinoba nagarSHIMOGA 577 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM162",
     "name": "Sri..Y.P.Chikkaveerappa",
-    "address": "Teacher Yagati at & Po. Kadur Tq, CKM Dist., 577 140"
+    "address": "Teacher Yagati at & Po. Kadur Tq, CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM163",
     "name": "Sri..Y.P.Nagaraj Yagati at & Po. Kadur Tq",
-    "address": "CKM Dist., 577 140"
+    "address": "CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM164",
     "name": "Sri..A.Channabasavaiah",
-    "address": "Bhagavath Akashvani Artist, Aralaguppa at & Po. Tiptur Tq., Tumakuru Dist. 572 201"
+    "address": "Bhagavath Akashvani Artist, Aralaguppa at & Po. Tiptur Tq., Tumakuru Dist. 572 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM165",
     "name": "Sri..Channabasavaiah",
-    "address": "Gram panchayath memberKanakatte at & po.,Thotada mane, Arasikere Tq, Hassan Dist. 573 144"
+    "address": "Gram panchayath memberKanakatte at & po.,Thotada mane, Arasikere Tq, Hassan Dist. 573 144",
+    "status": "Active"
   },
   {
+    "memberId": "MEM166",
     "name": "Sri.H.K.Channabasappa",
-    "address": "S/o H.B.Kalleshappa ,Hiresadarahally at & po. Kanakatte Hobli Arasikere Tq, Hassan Dist. 573 144"
+    "address": "S/o H.B.Kalleshappa ,Hiresadarahally at & po. Kanakatte Hobli Arasikere Tq, Hassan Dist. 573 144",
+    "status": "Active"
   },
   {
+    "memberId": "MEM167",
     "name": "Sri..M.Channabasavaiah",
-    "address": "Lecturer Soralamavu at & Po., C.N.Hally Tq. Tumakuru Dist., 572 119"
+    "address": "Lecturer Soralamavu at & Po., C.N.Hally Tq. Tumakuru Dist., 572 119",
+    "status": "Active"
   },
   {
+    "memberId": "MEM168",
     "name": "Sri. E.Chandrashekhar",
-    "address": "# 129, Samrudhi, KSRTC Layout,BT Koppalu, Arasikere road,Hassan 573 118"
+    "address": "# 129, Samrudhi, KSRTC Layout,BT Koppalu, Arasikere road,Hassan 573 118",
+    "status": "Active"
   },
   {
+    "memberId": "MEM169",
     "name": "Sri. H.B.Diwakar",
-    "address": "C/o HB Revanna# MIG 46A, 1st cross, JTK 1st stage, Kuvempunagar, Opp Complex, Mysore 570 023"
+    "address": "C/o HB Revanna# MIG 46A, 1st cross, JTK 1st stage, Kuvempunagar, Opp Complex, Mysore 570 023",
+    "status": "Active"
   },
   {
+    "memberId": "MEM170",
     "name": "Sri..R.Deveerappa",
-    "address": "Health Inspector Kunkanadu at & Po. Kadur Tq, CKM Dist., 577 548"
+    "address": "Health Inspector Kunkanadu at & Po. Kadur Tq, CKM Dist., 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM171",
     "name": "Sri.Eshwarappa",
-    "address": "Lakkenahally at & po., Sira Tq. Tumkur Dist., 572 137"
+    "address": "Lakkenahally at & po., Sira Tq. Tumkur Dist., 572 137",
+    "status": "Active"
   },
   {
+    "memberId": "MEM172",
     "name": "Sri. .L.R.Eshwarappa",
-    "address": "# 653, 1st main, 2nd cross, Kamalanagar, Basaveswaranagar po. Bengaluru - 79"
+    "address": "# 653, 1st main, 2nd cross, Kamalanagar, Basaveswaranagar po. Bengaluru - 79",
+    "status": "Active"
   },
   {
+    "memberId": "MEM173",
     "name": "Sri. M.H.Girish",
-    "address": "S/o Honnappa Marashettihally at & po,Gubbi Tq., Tumakuru Dist. 572 225"
+    "address": "S/o Honnappa Marashettihally at & po,Gubbi Tq., Tumakuru Dist. 572 225",
+    "status": "Active"
   },
   {
+    "memberId": "MEM174",
     "name": "Sri. K.G.Gangadharaiah s/o Late Gurunanjappa",
-    "address": "B.Kodihally Attikatte Po., Gubbi Tq.Tumakuru Dist., 572 225"
+    "address": "B.Kodihally Attikatte Po., Gubbi Tq.Tumakuru Dist., 572 225",
+    "status": "Active"
   },
   {
+    "memberId": "MEM175",
     "name": "Sri. S.Girish",
-    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015"
+    "address": "S/o Shivanna, # 23,12TH Cross, 11th Main, Sri Raghavendra Layout, Kammagondanahally, Bengaluru 560 015",
+    "status": "Active"
   },
   {
+    "memberId": "MEM176",
     "name": "Sri. Ganganna Rtd",
-    "address": "TeacherAralaguppe at & po. , Tiptur Tq, Tumkur Dist. 572 212"
+    "address": "TeacherAralaguppe at & po. , Tiptur Tq, Tumkur Dist. 572 212",
+    "status": "Active"
   },
   {
+    "memberId": "MEM177",
     "name": "Sri. M..Ravi",
-    "address": "# 162, Ammana Nele, Ist floor1st main, 4th cross, Near Shreyas hospital, Mahalaxmi layout, Bengaluru 560 086"
+    "address": "# 162, Ammana Nele, Ist floor1st main, 4th cross, Near Shreyas hospital, Mahalaxmi layout, Bengaluru 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM178",
     "name": "Sri. Sadashivappa",
-    "address": "# 212, 4th Cross, 1st Main, Manjunathanagar , Bengaluru 560 010"
+    "address": "# 212, 4th Cross, 1st Main, Manjunathanagar , Bengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM179",
     "name": "Sri. Siddanna",
-    "address": "Police dept.(Rtd.)Kundur, Devarayapatna Po. Tumkur Tq 572 104"
+    "address": "Police dept.(Rtd.)Kundur, Devarayapatna Po. Tumkur Tq 572 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM180",
     "name": "Sri. H.R.Sangameshwar",
-    "address": "# 231, 4th cross, 6th Blk, BEL Layout, Vidyaranyapuram, Bangalore 560 097"
+    "address": "# 231, 4th cross, 6th Blk, BEL Layout, Vidyaranyapuram, Bangalore 560 097",
+    "status": "Active"
   },
   {
+    "memberId": "MEM181",
     "name": "Smt. Sunitha Rudresh",
-    "address": "# 28/A, 7th cross, opp SPMH School, Gnanabharathi, Mariappanapalya, Bangalore 560 056"
+    "address": "# 28/A, 7th cross, opp SPMH School, Gnanabharathi, Mariappanapalya, Bangalore 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM182",
     "name": "Sri. Sathish.T",
-    "address": "# 19, Surabhi, Gowdara colony,RMV 2nd stage,. Bengaluru 560 094"
+    "address": "# 19, Surabhi, Gowdara colony,RMV 2nd stage,. Bengaluru 560 094",
+    "status": "Active"
   },
   {
+    "memberId": "MEM183",
     "name": "Smt. Savitha",
-    "address": "W/o Satish T# 19, Gowdara colony, NagashettyhallyRMV 2nd Stage, Bengaluru 560 094"
+    "address": "W/o Satish T# 19, Gowdara colony, NagashettyhallyRMV 2nd Stage, Bengaluru 560 094",
+    "status": "Active"
   },
   {
+    "memberId": "MEM184",
     "name": "Sri. V.Thippeswamy",
-    "address": "BPMBeerenahally, Hiriyur TqChitradurga Dist., 572 143"
+    "address": "BPMBeerenahally, Hiriyur TqChitradurga Dist., 572 143",
+    "status": "Active"
   },
   {
+    "memberId": "MEM185",
     "name": "Sri. H.R. Thotappa",
-    "address": "C/o"
+    "address": "C/o",
+    "status": "Active"
   },
   {
+    "memberId": "MEM186",
     "name": "Sri.S.Sachidananda Kumar",
-    "address": "EE (Rtd)Saraswathi vidya mandir, Baratagi road, Near solapur bypass, P.B.No.23, Bijapur at & Po., Bijapur. 586 104"
+    "address": "EE (Rtd)Saraswathi vidya mandir, Baratagi road, Near solapur bypass, P.B.No.23, Bijapur at & Po., Bijapur. 586 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM187",
     "name": "Sri. H.S.Thotappa",
-    "address": "S/o SiddappaVallabhabai nagar Hassan 573 201"
+    "address": "S/o SiddappaVallabhabai nagar Hassan 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM188",
     "name": "Sri. Thammaiah",
-    "address": "S/o Basappa# 1223, 4th West Cross, LN Colony, `Vijayalaxmi Nilaya` Yeshwanthapur Bengaluru 560 022"
+    "address": "S/o Basappa# 1223, 4th West Cross, LN Colony, `Vijayalaxmi Nilaya` Yeshwanthapur Bengaluru 560 022",
+    "status": "Active"
   },
   {
+    "memberId": "MEM189",
     "name": "Sri. K.S.Mahesha",
-    "address": "Teacher# 96, I Cross, I Main, T A R Extn., Near BGS College, Magadi at & po. Ramanagar Dist., 562120"
+    "address": "Teacher# 96, I Cross, I Main, T A R Extn., Near BGS College, Magadi at & po. Ramanagar Dist., 562120",
+    "status": "Active"
   },
   {
+    "memberId": "MEM190",
     "name": "Sri.J.S.Theju Murthy s/o SadashivappaJalagaranahally",
-    "address": "Yedavanahally Po.Arasikere Tq, Hassan Dist. 573 119"
+    "address": "Yedavanahally Po.Arasikere Tq, Hassan Dist. 573 119",
+    "status": "Active"
   },
   {
+    "memberId": "MEM191",
     "name": "Sri. Thippeswamy",
-    "address": "# 14, 8th cross, 1st Main, SSS BhavanManjunathanagar, Bangalore 560 010"
+    "address": "# 14, 8th cross, 1st Main, SSS BhavanManjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM192",
     "name": "Sri.K.P.Umesh s/o Puttaswamy Doddakodihally",
-    "address": "Halebidu HobliBelur Tq. HASSAN Dist. 573 121"
+    "address": "Halebidu HobliBelur Tq. HASSAN Dist. 573 121",
+    "status": "Active"
   },
   {
+    "memberId": "MEM193",
     "name": "Smt. Vijayambike",
-    "address": "# 1324, ` Shiva krupa` Rangaiah naidu layout, Mahakavi pampa roadT.Dasarahally., Bengaluru 560 057"
+    "address": "# 1324, ` Shiva krupa` Rangaiah naidu layout, Mahakavi pampa roadT.Dasarahally., Bengaluru 560 057",
+    "status": "Active"
   },
   {
+    "memberId": "MEM194",
     "name": "Sri. M.Vinod kumar",
-    "address": "# 78/64, Tengina thotada road, 2nd cross, Vrushabhavathinagar, Bengaluru 560 079"
+    "address": "# 78/64, Tengina thotada road, 2nd cross, Vrushabhavathinagar, Bengaluru 560 079",
+    "status": "Active"
   },
   {
+    "memberId": "MEM195",
     "name": "Sri. R.Yogish",
-    "address": "S/o H.Rajappa Mudhudi at & po, Arasikere Tq. Hassan Dist, 573 119"
+    "address": "S/o H.Rajappa Mudhudi at & po, Arasikere Tq. Hassan Dist, 573 119",
+    "status": "Active"
   },
   {
+    "memberId": "MEM196",
     "name": "Smt. Shivamma",
-    "address": "# 121, 3rd Cross, Hoysalanagar,Nagarabhavi po, Bangalore 560 072"
+    "address": "# 121, 3rd Cross, Hoysalanagar,Nagarabhavi po, Bangalore 560 072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM197",
     "name": "Sri. Shivaputrappa B MamadapuraJC Extn.",
-    "address": "Behind PLD Bank, Holalkere at & po, Chitradurga Dist 577 526"
+    "address": "Behind PLD Bank, Holalkere at & po, Chitradurga Dist 577 526",
+    "status": "Active"
   },
   {
+    "memberId": "MEM198",
     "name": "Sri. K.S.Revannasiddeswara s/o Shankarappa Kadaba at & po",
-    "address": "Gubbi Tq, Tumkur Dist, 572 219"
+    "address": "Gubbi Tq, Tumkur Dist, 572 219",
+    "status": "Active"
   },
   {
+    "memberId": "MEM199",
     "name": "Smt H.V.Roopa",
-    "address": "W/o M.B Rajashekar, Malenahally, Sollapura Po, Ajjampura Tq Tarikere Tq. CKM Dist., 577 550"
+    "address": "W/o M.B Rajashekar, Malenahally, Sollapura Po, Ajjampura Tq Tarikere Tq. CKM Dist., 577 550",
+    "status": "Active"
   },
   {
+    "memberId": "MEM200",
     "name": "Sri B.M.Omkarappa K.Bidare at & po",
-    "address": "Kadur Tq, CKM Dist., 577 548"
+    "address": "Kadur Tq, CKM Dist., 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM201",
     "name": "Sri D.N.Rudrappa",
-    "address": "Rtd H.M Muthanigere at & po,Kadur Tq, CKM Dist., 577 182"
+    "address": "Rtd H.M Muthanigere at & po,Kadur Tq, CKM Dist., 577 182",
+    "status": "Active"
   },
   {
+    "memberId": "MEM202",
     "name": "Sri..Veerabhadrappa",
-    "address": "S/o Mallappa Yagati at & Po.Kadur Tq,CKM Dist., 577 140"
+    "address": "S/o Mallappa Yagati at & Po.Kadur Tq,CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM203",
     "name": "Sri. K.R.Siddappa",
-    "address": "S/o Bandari Rudrappa Kudlur at & po., Tarikere Tq, CKM Dist. 577 157"
+    "address": "S/o Bandari Rudrappa Kudlur at & po., Tarikere Tq, CKM Dist. 577 157",
+    "status": "Active"
   },
   {
+    "memberId": "MEM204",
     "name": "Sri. B.Ningappa",
-    "address": "S/o Basappa Kudlur at & po., Tarikere Tq, CKM Dist. 577 157"
+    "address": "S/o Basappa Kudlur at & po., Tarikere Tq, CKM Dist. 577 157",
+    "status": "Active"
   },
   {
+    "memberId": "MEM205",
     "name": "Sri Dayanand",
-    "address": "S/o MylaraiahThotada mane, Mathihally at & po Tiptur Tq, Tumkur Dist., 572 201"
+    "address": "S/o MylaraiahThotada mane, Mathihally at & po Tiptur Tq, Tumkur Dist., 572 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM206",
     "name": "Sri.Jagadish",
-    "address": "Bylappanahally, Near Ramanna shop, Madavara poDasanapura hobli, BNG North Tq,562 123"
+    "address": "Bylappanahally, Near Ramanna shop, Madavara poDasanapura hobli, BNG North Tq,562 123",
+    "status": "Active"
   },
   {
+    "memberId": "MEM207",
     "name": "Sri.Y.S.Harish s/o Y.P.Sadashivappa Ujjanipura",
-    "address": "Honnali Tq. Davanagere Dist. 577217"
+    "address": "Honnali Tq. Davanagere Dist. 577217",
+    "status": "Active"
   },
   {
+    "memberId": "MEM208",
     "name": "Sri.H.M.Rajanna",
-    "address": "Aishwarya nilayaAntharaghattamma temple road,Mahaveera Extn, Hosadurga at & po. Chitradurga Dist. 577 527"
+    "address": "Aishwarya nilayaAntharaghattamma temple road,Mahaveera Extn, Hosadurga at & po. Chitradurga Dist. 577 527",
+    "status": "Active"
   },
   {
+    "memberId": "MEM209",
     "name": "Sri. B.M.Rudramurthy",
-    "address": "# 56,3rd cross, Mariyappanapalya Janatha colony, Gnanabharathi PoBengaluru 560 056"
+    "address": "# 56,3rd cross, Mariyappanapalya Janatha colony, Gnanabharathi PoBengaluru 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM210",
     "name": "Sri.K.N.Rudrappa s/o Nandyappa .KAnaberu",
-    "address": "Davanagere Tq & Dist. 577 001"
+    "address": "Davanagere Tq & Dist. 577 001",
+    "status": "Active"
   },
   {
+    "memberId": "MEM211",
     "name": "Sri. U.Kotrappa",
-    "address": "# 467, 2nd Phase, 3rd C main, Manjunathanagar, Bangalore 560 010"
+    "address": "# 467, 2nd Phase, 3rd C main, Manjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM212",
     "name": "Sri. G.M.Abhishek s/o Mallikarjunaiah",
-    "address": "# 132/A, 97` Abhishek Nilaya` Ward No.2, Janatha colony, Madanayakanahally at & poBNG North TQ., 562 123"
+    "address": "# 132/A, 97` Abhishek Nilaya` Ward No.2, Janatha colony, Madanayakanahally at & poBNG North TQ., 562 123",
+    "status": "Active"
   },
   {
+    "memberId": "MEM213",
     "name": "Sri. Rudrappa",
-    "address": "#182, 4th main, 1st cross, Manjunathanagar, Bangalore 560 010"
+    "address": "#182, 4th main, 1st cross, Manjunathanagar, Bangalore 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM214",
     "name": "Sri. Rajashekharaiah",
-    "address": "#102, 2nd Main, 5th cross, Ring road, Viveknagar, Hassan 573 201"
+    "address": "#102, 2nd Main, 5th cross, Ring road, Viveknagar, Hassan 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM215",
     "name": "Sri.R.N.Harish s/o Nanjundappa Rajanasiriyur at & po",
-    "address": "Halebidu HobliBelur Tq. HASSAN Dist. 573 121"
+    "address": "Halebidu HobliBelur Tq. HASSAN Dist. 573 121",
+    "status": "Active"
   },
   {
+    "memberId": "MEM216",
     "name": "Sri. K.V.Malleshappa",
-    "address": "Advocate,NH 206, Opp Govt Hospital, Kadur at & po. CKM Dist. 577 548"
+    "address": "Advocate,NH 206, Opp Govt Hospital, Kadur at & po. CKM Dist. 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM217",
     "name": "Sri. M.B.Prakash",
-    "address": "s/o BasavarajappaMurundi at & po. Arasikere Tq. Hassan Dist. 573 122"
+    "address": "s/o BasavarajappaMurundi at & po. Arasikere Tq. Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM218",
     "name": "Sri. M.G.Somashekar",
-    "address": "s/o GangannaMurundi at & po. Arasikere Tq. Hassan Dist. 573 122"
+    "address": "s/o GangannaMurundi at & po. Arasikere Tq. Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM219",
     "name": "Sri. Neelaksha Madappa s/o Rudrappa Korally",
-    "address": "Tejur po.Hassan Tq & Dist. 573 201"
+    "address": "Tejur po.Hassan Tq & Dist. 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM220",
     "name": "Sri. Shivanna",
-    "address": "S/o Siddappa Karagunda at & po, Javagal hobli, Arasikere Tq, Hassan Dist. 573 122"
+    "address": "S/o Siddappa Karagunda at & po, Javagal hobli, Arasikere Tq, Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM221",
     "name": "Sri. Shivakumar s/o Neelakantappa",
-    "address": "# 4300, Vallabhabai Road, Hassan 573 201"
+    "address": "# 4300, Vallabhabai Road, Hassan 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM222",
     "name": "Sri. G.Shantharaju c/o GS Prasad",
-    "address": "# 402, Everjoy Shalini Apartment 2nd cross, 12th Main, Balajinagar, Utharahalli. Bangalore 560 061"
+    "address": "# 402, Everjoy Shalini Apartment 2nd cross, 12th Main, Balajinagar, Utharahalli. Bangalore 560 061",
+    "status": "Active"
   },
   {
+    "memberId": "MEM223",
     "name": "Sri M.B.Kumar s/o Basavalingappa Prudent Eco system",
-    "address": "# 68, 4th C cross Vrushabhavathinagar, Kamakshipalya, Bengalur- 560 079."
+    "address": "# 68, 4th C cross Vrushabhavathinagar, Kamakshipalya, Bengalur- 560 079.",
+    "status": "Active"
   },
   {
+    "memberId": "MEM224",
     "name": "Sri I.M.Yogeesh s/o MalleshappaGajalaxmi nilaya",
-    "address": "Vishwabharathi Road, , Benki colony , Kadur at & po, CKM Dist 577 548"
+    "address": "Vishwabharathi Road, , Benki colony , Kadur at & po, CKM Dist 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM225",
     "name": "Sri B.Thippeshappa",
-    "address": "S/o Basappa, Bukkambudi at & po, Tarikere Tq. Chikkamagalur Dist- 577 145"
+    "address": "S/o Basappa, Bukkambudi at & po, Tarikere Tq. Chikkamagalur Dist- 577 145",
+    "status": "Active"
   },
   {
+    "memberId": "MEM226",
     "name": "Sri B.R.Shivanandappa",
-    "address": "S/o Rudrappa, Bukkambudi at & po, Tarikere Tq. Chikkamagalur Dist- 577 145"
+    "address": "S/o Rudrappa, Bukkambudi at & po, Tarikere Tq. Chikkamagalur Dist- 577 145",
+    "status": "Active"
   },
   {
+    "memberId": "MEM227",
     "name": "Sri N Parameshwarappa",
-    "address": "S/o Nanjappa, Post master, Keresanthe, Kadur Tq., Singatagere Hobli, CKM Dist-577 548"
+    "address": "S/o Nanjappa, Post master, Keresanthe, Kadur Tq., Singatagere Hobli, CKM Dist-577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM228",
     "name": "Sri Parameshwarappa",
-    "address": "S/o Halappa, Keresanthe,., Singatagere Hobli, Kadur Tq CKM Dist. - 577 548"
+    "address": "S/o Halappa, Keresanthe,., Singatagere Hobli, Kadur Tq CKM Dist. - 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM229",
     "name": "Sri Prasad H.G",
-    "address": "Advoate, S/o Gurushambhulingappa, No.14/5, 1st floor,Munireddy Parvathamma Bldg, TCP layout, Old Chandapura, Hosur main road, Bengaluru, 560 081"
+    "address": "Advoate, S/o Gurushambhulingappa, No.14/5, 1st floor,Munireddy Parvathamma Bldg, TCP layout, Old Chandapura, Hosur main road, Bengaluru, 560 081",
+    "status": "Active"
   },
   {
+    "memberId": "MEM230",
     "name": "Sri H B Chandrashekharappa",
-    "address": "S/o Puttappa, Bilikallalli, Uddeboranahalli po., Chikkamagalur Tq & Dist.,577 101 . 9902203137"
+    "address": "S/o Puttappa, Bilikallalli, Uddeboranahalli po., Chikkamagalur Tq & Dist.,577 101 . 9902203137",
+    "status": "Active"
   },
   {
+    "memberId": "MEM231",
     "name": "Sri Shivakumar",
-    "address": "H.V. Advocate# 3719, 1st Main, Near SBI Bank, Gayatrinagar, Bangalore 560 021"
+    "address": "H.V. Advocate# 3719, 1st Main, Near SBI Bank, Gayatrinagar, Bangalore 560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM232",
     "name": "Sri Manjunatha",
-    "address": "S/o Parvath MallappaKarakuchi at & po. Lakkavally Hobli, Tarikere Tq, CKM Dist. - 577 128"
+    "address": "S/o Parvath MallappaKarakuchi at & po. Lakkavally Hobli, Tarikere Tq, CKM Dist. - 577 128",
+    "status": "Active"
   },
   {
+    "memberId": "MEM233",
     "name": "Sri. Renukappa",
-    "address": "S/o Siddappa Karagunda at & po, Javagal hobli, Arasikere Tq, Hassan Dist. 573 122"
+    "address": "S/o Siddappa Karagunda at & po, Javagal hobli, Arasikere Tq, Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM234",
     "name": "Sri Y.S.Mallikarjuna",
-    "address": "S/o Shivanna.VYeradakere at & po, Kadur Tq CKM Dist. - 577 548"
+    "address": "S/o Shivanna.VYeradakere at & po, Kadur Tq CKM Dist. - 577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM235",
     "name": "Sri. Nanjundappa s/o Channabasappa",
-    "address": "Mathighatta, Kadur Tq. Chikmagalur Dist -577 548"
+    "address": "Mathighatta, Kadur Tq. Chikmagalur Dist -577 548",
+    "status": "Active"
   },
   {
+    "memberId": "MEM236",
     "name": "Sri. Basavaraju",
-    "address": "S/o Veerabhadrappa Rtd Teacher, Hoysala layout, Halebidu po. Belur Tq. Hassan Dist. 573 121"
+    "address": "S/o Veerabhadrappa Rtd Teacher, Hoysala layout, Halebidu po. Belur Tq. Hassan Dist. 573 121",
+    "status": "Active"
   },
   {
+    "memberId": "MEM237",
     "name": "Sri.K.H.Basavaraju",
-    "address": "S/o Honnappa,Kamasamudra at & po.Arasikere Tq. Hassan Dist. 573 201"
+    "address": "S/o Honnappa,Kamasamudra at & po.Arasikere Tq. Hassan Dist. 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM238",
     "name": "Sri..Y.J.Prasanna Kumar",
-    "address": "Teacher, Yagati at & Po. Kadur Tq, CKM Dist., 577 140"
+    "address": "Teacher, Yagati at & Po. Kadur Tq, CKM Dist., 577 140",
+    "status": "Active"
   },
   {
+    "memberId": "MEM239",
     "name": "Sri. .Manjappa",
-    "address": "# 926, 3rd Main, NGO Colony,Kamalanagar , Bengaluru 560 079"
+    "address": "# 926, 3rd Main, NGO Colony,Kamalanagar , Bengaluru 560 079",
+    "status": "Active"
   },
   {
+    "memberId": "MEM240",
     "name": "Smt. Lathamani. B",
-    "address": "# SF 002, Prakruthi global Naveen Aptmts. RR Nagar, Bengaluru 560 098"
+    "address": "# SF 002, Prakruthi global Naveen Aptmts. RR Nagar, Bengaluru 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM241",
     "name": "Sri. H.E. Basavaraju",
-    "address": "# 02, Veeerabhadreshwara Nilaya, BhavaninagarChennanayakanapalya, Bangalore 560 073"
+    "address": "# 02, Veeerabhadreshwara Nilaya, BhavaninagarChennanayakanapalya, Bangalore 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM242",
     "name": "Sri. H.J. Kotturesh",
-    "address": "# 02, Veeerabhadreshwara Nilaya, BhavaninagarChennanayakanapalya, Bangalore 560 073"
+    "address": "# 02, Veeerabhadreshwara Nilaya, BhavaninagarChennanayakanapalya, Bangalore 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM243",
     "name": "Smt. Manjula H.J.",
-    "address": "# 5501, 4th Main, Jagajyothi layout, Nagadevanahally, Kengeri Bangalore 560 060 Mob: 9880363059"
+    "address": "# 5501, 4th Main, Jagajyothi layout, Nagadevanahally, Kengeri Bangalore 560 060 Mob: 9880363059",
+    "status": "Active"
   },
   {
+    "memberId": "MEM244",
     "name": "Sri Panchakshari",
-    "address": "C/o Venkatareddy# 86, 6th Cross, Srikrishna temple road, Dwarakanagar, BSK, Bangalore 560 085"
+    "address": "C/o Venkatareddy# 86, 6th Cross, Srikrishna temple road, Dwarakanagar, BSK, Bangalore 560 085",
+    "status": "Active"
   },
   {
+    "memberId": "MEM245",
     "name": "Sri Kumar.B",
-    "address": "# 16/A, 7th Cross, Mariyappanapalya Gnanabharathi, Bangalore 560 056"
+    "address": "# 16/A, 7th Cross, Mariyappanapalya Gnanabharathi, Bangalore 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM246",
     "name": "Sri M.S.Renukaiah",
-    "address": "T.Begur, Nelamangala Tq., Bangalore Rural 560 123 Mob: 7892602946"
+    "address": "T.Begur, Nelamangala Tq., Bangalore Rural 560 123 Mob: 7892602946",
+    "status": "Active"
   },
   {
+    "memberId": "MEM247",
     "name": "Sri. C.Nithyanand",
-    "address": "S/o Channabasappa Murundi at & po. Arasikere Tq. Hassan Dist. 573 122"
+    "address": "S/o Channabasappa Murundi at & po. Arasikere Tq. Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM248",
     "name": "Sri. Yogish",
-    "address": "S/o Parameshwarappa Murundi at & po. Arasikere Tq. Hassan Dist. 573 122"
+    "address": "S/o Parameshwarappa Murundi at & po. Arasikere Tq. Hassan Dist. 573 122",
+    "status": "Active"
   },
   {
+    "memberId": "MEM249",
     "name": "Sri. Thippeswamy (Ramu) c/o KenchappaRani madam street",
-    "address": "KRS Agrahara, Kuvempunagar, Kunigal,Tumkur Dist 572130"
+    "address": "KRS Agrahara, Kuvempunagar, Kunigal,Tumkur Dist 572130",
+    "status": "Active"
   },
   {
+    "memberId": "MEM250",
     "name": "Sri Rajanna s/o Siddappa Keregodu Rangapura po. Tiptur Tq",
-    "address": "Tumkur Dist. 572 201"
+    "address": "Tumkur Dist. 572 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM251",
     "name": "Sri A.S.Rudresh",
-    "address": "Aradavally, Mugulavalli po. CKM Tq & Dist 577 101"
+    "address": "Aradavally, Mugulavalli po. CKM Tq & Dist 577 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM252",
     "name": "Smt Sharada Rudresh",
-    "address": "Aradavally, Mugulavalli po. CKM Tq & Dist 577 101"
+    "address": "Aradavally, Mugulavalli po. CKM Tq & Dist 577 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM253",
     "name": "Sri R.S.Lokesh s/o Sannasiddaiah",
-    "address": "Hanumanthanahally Thotada mane, Ramanahally po. Kandikere S.OC N Hally Tq. Tumkur Dist 572 228"
+    "address": "Hanumanthanahally Thotada mane, Ramanahally po. Kandikere S.OC N Hally Tq. Tumkur Dist 572 228",
+    "status": "Active"
   },
   {
+    "memberId": "MEM254",
     "name": "Sri. N.Mahadevaswamy",
-    "address": "S/o Neelakantappa Yelachetty, Gundlupet Tq., Chamarajanagar Dist."
+    "address": "S/o Neelakantappa Yelachetty, Gundlupet Tq., Chamarajanagar Dist.",
+    "status": "Active"
   },
   {
+    "memberId": "MEM255",
     "name": "Smt Kavitha Gangadhar",
-    "address": "#1044,5th main, 3rd stage, Basaveswaranagar, Bangalore 560 079"
+    "address": "#1044,5th main, 3rd stage, Basaveswaranagar, Bangalore 560 079",
+    "status": "Active"
   },
   {
+    "memberId": "MEM256",
     "name": "Smt. R. Girijambika",
-    "address": "W/o H.Mahalingaiah, Shettyhally at & Po, Tumkur 572 102"
+    "address": "W/o H.Mahalingaiah, Shettyhally at & Po, Tumkur 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM257",
     "name": "Sri. Basavaraju M.N",
-    "address": "S/o Nanjundappa Manakattur , Thonduganahally Po. Arasikere Tq, Hassan Dist."
+    "address": "S/o Nanjundappa Manakattur , Thonduganahally Po. Arasikere Tq, Hassan Dist.",
+    "status": "Active"
   },
   {
+    "memberId": "MEM258",
     "name": "Sri. B.E.Lokesh",
-    "address": "# 80/26,Srinivasanagar, 6th Cross, Near Anjali convent, Sunkadakatte, Bangalore 560 091"
+    "address": "# 80/26,Srinivasanagar, 6th Cross, Near Anjali convent, Sunkadakatte, Bangalore 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM259",
     "name": "Sri. T.Niranjana",
-    "address": "Basavasri Nilaya, Vasavi layout, Lakkavanahally road,Hiriyur at & po. Chitradurga dist. Mob:7795144365"
+    "address": "Basavasri Nilaya, Vasavi layout, Lakkavanahally road,Hiriyur at & po. Chitradurga dist. Mob:7795144365",
+    "status": "Active"
   },
   {
+    "memberId": "MEM260",
     "name": "Sri. H.C.Prabhu",
-    "address": "# 2, 2nd Cross, Durga parameswari layout, HV Hally, RR Nagar Po. Bangalore 560 098"
+    "address": "# 2, 2nd Cross, Durga parameswari layout, HV Hally, RR Nagar Po. Bangalore 560 098",
+    "status": "Active"
   },
   {
+    "memberId": "MEM261",
     "name": "Sri Mohan. B.S. 2385",
-    "address": "1 st A Main, Near Maruthi hospital, Vijayanagar II stage, Bangalore 560 040"
+    "address": "1 st A Main, Near Maruthi hospital, Vijayanagar II stage, Bangalore 560 040",
+    "status": "Active"
   },
   {
+    "memberId": "MEM262",
     "name": "Sri Mahesh Basavaiah",
-    "address": "# 31/8, 12th Main, Vijayanagar, Bangalore 560 040 INSUFFICIENT ADDRESS or Change of address"
+    "address": "# 31/8, 12th Main, Vijayanagar, Bangalore 560 040 INSUFFICIENT ADDRESS or Change of address",
+    "status": "Active"
   },
   {
+    "memberId": "MEM263",
     "name": "Sri. Bhadraiah",
-    "address": "Kittanna building, Nelagadaranahally, Nagasandra po., Bangalore 560 073"
+    "address": "Kittanna building, Nelagadaranahally, Nagasandra po., Bangalore 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM264",
     "name": "Sri. R.Rajanna",
-    "address": "C/o Ramanna HanumanthapurTumakuru at & Po,572 104"
+    "address": "C/o Ramanna HanumanthapurTumakuru at & Po,572 104",
+    "status": "Active"
   },
   {
+    "memberId": "MEM265",
     "name": "Sri. B.P.Ganganna",
-    "address": "# 1st Main, J.C.Nagar,Bengaluru 560 086"
+    "address": "# 1st Main, J.C.Nagar,Bengaluru 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM266",
     "name": "Sri..Halappa",
-    "address": "# 26, Vigneswara Extn., Chikkasandra T.Dasarahally Po, Hesaraghatta Road Bengaluru- 560 057"
+    "address": "# 26, Vigneswara Extn., Chikkasandra T.Dasarahally Po, Hesaraghatta Road Bengaluru- 560 057",
+    "status": "Active"
   },
   {
+    "memberId": "MEM267",
     "name": "Sri. P.A.Jayadevappa",
-    "address": "# Po. Bengaluru- 560 0"
+    "address": "# Po. Bengaluru- 560 0",
+    "status": "Active"
   },
   {
+    "memberId": "MEM268",
     "name": "Smt. Jyothi Manjunath",
-    "address": "# 3489/9, 6th Cross, Gayathrinagar, Bengaluru -560 021"
+    "address": "# 3489/9, 6th Cross, Gayathrinagar, Bengaluru -560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM269",
     "name": "Sri. N.D.Manjunath s/o Devaraju",
-    "address": "# 3489/9, 6th Cross,Gayathrinagar, Bengaluru -560 021"
+    "address": "# 3489/9, 6th Cross,Gayathrinagar, Bengaluru -560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM270",
     "name": "Sri.K.M.Palakshappa s/o Muddaveeraiah Kudur at & po. Magadi Tq",
-    "address": "Ramanagar Dist. 561 101"
+    "address": "Ramanagar Dist. 561 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM271",
     "name": "Smt. H.Vijayalaxmi",
-    "address": "# 6th cross, SIT Extn, Tumkur 572 102"
+    "address": "# 6th cross, SIT Extn, Tumkur 572 102",
+    "status": "Active"
   },
   {
+    "memberId": "MEM272",
     "name": "Sri. .D.R.Ravikumar",
-    "address": "Bidare Agrahara Virgonagar Po. Bidarahally HobliBengaluru 560 049"
+    "address": "Bidare Agrahara Virgonagar Po. Bidarahally HobliBengaluru 560 049",
+    "status": "Active"
   },
   {
+    "memberId": "MEM273",
     "name": "Sri. Subedar S Basavaraju",
-    "address": "# 34, 2nd cross, Behind Fathima stores Manjunathanagar, Hormavu main roadRamamurthynagar, Bengaluru 560 016"
+    "address": "# 34, 2nd cross, Behind Fathima stores Manjunathanagar, Hormavu main roadRamamurthynagar, Bengaluru 560 016",
+    "status": "Active"
   },
   {
+    "memberId": "MEM274",
     "name": "Smt.Shobharani. R.Siddaganga nilaya",
-    "address": "Bharathi marg. Chikkamagalur at & po. 577 501"
+    "address": "Bharathi marg. Chikkamagalur at & po. 577 501",
+    "status": "Active"
   },
   {
+    "memberId": "MEM275",
     "name": "Sri. J.Gowrishankar s/o H.Jayanna",
-    "address": "# 3797, 2nd Main, 6th Cross Gayatrinagar, Subramanyanagar. Bengaluru 560 021"
+    "address": "# 3797, 2nd Main, 6th Cross Gayatrinagar, Subramanyanagar. Bengaluru 560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM276",
     "name": "Sri. H.M.Rudresh",
-    "address": "# 55/A, 24th Main, Srinivasa enterprises, JP.Nagar 2nd Phase,Bengaluru 560 078"
+    "address": "# 55/A, 24th Main, Srinivasa enterprises, JP.Nagar 2nd Phase,Bengaluru 560 078",
+    "status": "Active"
   },
   {
+    "memberId": "MEM277",
     "name": "Sri..H.M Chandrashekhar c/o Hosallaiah",
-    "address": "# 81/2, 12th `B` Main, ShivanagarRajajinagar Po, Bengaluru -560 010"
+    "address": "# 81/2, 12th `B` Main, ShivanagarRajajinagar Po, Bengaluru -560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM278",
     "name": "Sri. K.P.Shivananda",
-    "address": "# 5/6, 5/7 Abbaiah Bldg, Indl Area,Jockey campus, phase 2 unit, Begur Rd Bommanahally, Bengaluru 560 068"
+    "address": "# 5/6, 5/7 Abbaiah Bldg, Indl Area,Jockey campus, phase 2 unit, Begur Rd Bommanahally, Bengaluru 560 068",
+    "status": "Active"
   },
   {
+    "memberId": "MEM279",
     "name": "Smt.Sharadamma (Kudur)",
-    "address": "# 17, 9th Main, ShivanagarRajajinagar Po,Bengaluru 560 010"
+    "address": "# 17, 9th Main, ShivanagarRajajinagar Po,Bengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM280",
     "name": "Sri.Siddalingappa",
-    "address": "C/o Shabbi Hussain Saab # 618/42/3, 3rd cross, Suguna layout, Nayappanahally, Bangalore 560 068"
+    "address": "C/o Shabbi Hussain Saab # 618/42/3, 3rd cross, Suguna layout, Nayappanahally, Bangalore 560 068",
+    "status": "Active"
   },
   {
+    "memberId": "MEM281",
     "name": "Smt. Katyayani Rajashekhar11th Main",
-    "address": "4th Blk, Near Nandini Public school, Nandini Layout, Bengaluru 560 0869480783228"
+    "address": "4th Blk, Near Nandini Public school, Nandini Layout, Bengaluru 560 0869480783228",
+    "status": "Active"
   },
   {
+    "memberId": "MEM282",
     "name": "Sri. Gurulingaiah",
-    "address": "S/o Marilingaiah # 153/20, 2nd floor, Near Hotel Amogha, Laggere, Bangalore 560 058"
+    "address": "S/o Marilingaiah # 153/20, 2nd floor, Near Hotel Amogha, Laggere, Bangalore 560 058",
+    "status": "Active"
   },
   {
+    "memberId": "MEM283",
     "name": "Smt. H.R.Rekha Rani",
-    "address": "W/o S.Devaraju, # 23, 1st `A`Cross, Nanjappa Reddy Garden,Yeshwanthpur, Bengaluru 560 022"
+    "address": "W/o S.Devaraju, # 23, 1st `A`Cross, Nanjappa Reddy Garden,Yeshwanthpur, Bengaluru 560 022",
+    "status": "Active"
   },
   {
+    "memberId": "MEM284",
     "name": "Smt.Sarvamangala.G.R",
-    "address": "C/o Chethan# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103"
+    "address": "C/o Chethan# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM285",
     "name": "Smt.Bhumika Chethan",
-    "address": "# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103"
+    "address": "# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM286",
     "name": "Sri.C.N Chethan",
-    "address": "# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103"
+    "address": "# 17/A, Ground floor, Opp Prestige Cessna Business park, outer ring Rd, Kadubeesanahally, Bangalore -560 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM287",
     "name": "Sri.Mallikarjunaiah c/o P.S.Puttaswamy",
-    "address": "# 97` Abhishek Nilaya` Madavara Po. MadanayakanahallyBNG North TQ., 562 123"
+    "address": "# 97` Abhishek Nilaya` Madavara Po. MadanayakanahallyBNG North TQ., 562 123",
+    "status": "Active"
   },
   {
+    "memberId": "MEM288",
     "name": "Sri. K.P.Shivananda",
-    "address": "# 5/6, 5/7 Abbaiah Reddy Indl Area, Jockey campus, phase 2 unit, Begur Rd Bommanahally, Bengaluru 560 068"
+    "address": "# 5/6, 5/7 Abbaiah Reddy Indl Area, Jockey campus, phase 2 unit, Begur Rd Bommanahally, Bengaluru 560 068",
+    "status": "Active"
   },
   {
+    "memberId": "MEM289",
     "name": "Sri. K.H.Prabhulinga",
-    "address": "# 249/4, 5th cross,Venkatapura Main Rd Koramangala, Bengaluru 560 034"
+    "address": "# 249/4, 5th cross,Venkatapura Main Rd Koramangala, Bengaluru 560 034",
+    "status": "Active"
   },
   {
+    "memberId": "MEM290",
     "name": "Smt.Komala.M.KE-202",
-    "address": "Netravathi Blk, NagarabhaviVidyagiri layout, , Bangalore 560072"
+    "address": "Netravathi Blk, NagarabhaviVidyagiri layout, , Bangalore 560072",
+    "status": "Active"
   },
   {
+    "memberId": "MEM291",
     "name": "Sri. K.C.Veerabhadraiah",
-    "address": "# 17, Bharathnagar, BEL Layout 2nd stage, Byadarahally, Off Magadi main road. Vishwaneedam Po. Bengaluru 560 091"
+    "address": "# 17, Bharathnagar, BEL Layout 2nd stage, Byadarahally, Off Magadi main road. Vishwaneedam Po. Bengaluru 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM292",
     "name": "Sri.H.N.Hemachandra s/o Nandyappa( late)",
-    "address": "# 511, Srirama elite, Railway BCS layout, 6th cross, 2nd stage, Bhavaninagar, Near vidyanikethan school back gate, Bangalore 560 056"
+    "address": "# 511, Srirama elite, Railway BCS layout, 6th cross, 2nd stage, Bhavaninagar, Near vidyanikethan school back gate, Bangalore 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM293",
     "name": "Sri. G.Rajashekaraiah",
-    "address": "SBM Layout, Batawadi, Siddarameswara extn East.Near Shantiniketan vidyapeeta Tumakuru - 572 101"
+    "address": "SBM Layout, Batawadi, Siddarameswara extn East.Near Shantiniketan vidyapeeta Tumakuru - 572 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM294",
     "name": "Sri. Eshwarappa",
-    "address": "# 44A, 3rd Main, 7th cross,Shanthinagar, Hassan 573 201"
+    "address": "# 44A, 3rd Main, 7th cross,Shanthinagar, Hassan 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM295",
     "name": "Sri. Palakshaiah",
-    "address": "# 7, PWD Quarters, Srirmanagar, Near DC office, Tumkur 572 101"
+    "address": "# 7, PWD Quarters, Srirmanagar, Near DC office, Tumkur 572 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM296",
     "name": "Sri. Shivashankar",
-    "address": "S/o Late S.BasappaHosakere at & Po.,Madhugiri Tq. Tumakuru Dist., 572 130"
+    "address": "S/o Late S.BasappaHosakere at & Po.,Madhugiri Tq. Tumakuru Dist., 572 130",
+    "status": "Active"
   },
   {
+    "memberId": "MEM297",
     "name": "Sri. A.R.Harish s/o Rudrappa",
-    "address": "# 581, 3rd cross, Vidyanagar, Turuvekere at & po.Tumkur Dist 577227"
+    "address": "# 581, 3rd cross, Vidyanagar, Turuvekere at & po.Tumkur Dist 577227",
+    "status": "Active"
   },
   {
+    "memberId": "MEM298",
     "name": "Sri. Chandrashekar c/o KS Manjula",
-    "address": "# 03, Nishanth nilaya, 2nd floor, Parvathinagar, Laggere Bengaluru 560 058"
+    "address": "# 03, Nishanth nilaya, 2nd floor, Parvathinagar, Laggere Bengaluru 560 058",
+    "status": "Active"
   },
   {
+    "memberId": "MEM299",
     "name": "Sri. G.M.Thippeswamy",
-    "address": "School teacher# 318/319, survey No.9. 8th cross, Maruthinagar ( Solenahally) Bengaluru 560 022"
+    "address": "School teacher# 318/319, survey No.9. 8th cross, Maruthinagar ( Solenahally) Bengaluru 560 022",
+    "status": "Active"
   },
   {
+    "memberId": "MEM300",
     "name": "Sri. T.PraneshTalavaranahally",
-    "address": "Via SampigeTuruvekere TQ. Tumkur Dist. 572 225"
+    "address": "Via SampigeTuruvekere TQ. Tumkur Dist. 572 225",
+    "status": "Active"
   },
   {
+    "memberId": "MEM301",
     "name": "Sri. Lingamurthy",
-    "address": "C/o Chikkamariyappa Ananthapur, Attur Po., Yelahanka, Bengaluru 560 068"
+    "address": "C/o Chikkamariyappa Ananthapur, Attur Po., Yelahanka, Bengaluru 560 068",
+    "status": "Active"
   },
   {
+    "memberId": "MEM302",
     "name": "Sri H.S.Umashankar",
-    "address": "# 101, 1st Floor, Srigandhanagar, Gajanananagar, Hegganahally cross, Opp KKVS School, Bangalore 560 091"
+    "address": "# 101, 1st Floor, Srigandhanagar, Gajanananagar, Hegganahally cross, Opp KKVS School, Bangalore 560 091",
+    "status": "Active"
   },
   {
+    "memberId": "MEM303",
     "name": "Sri. K.G.Shivaprakash",
-    "address": "C/o Marulasiddaiah,C.U # SSSS Pvt Ltd., Hosur road, KoramangalaBengaluru 560 095"
+    "address": "C/o Marulasiddaiah,C.U # SSSS Pvt Ltd., Hosur road, KoramangalaBengaluru 560 095",
+    "status": "Active"
   },
   {
+    "memberId": "MEM304",
     "name": "Sri.V.Naveen",
-    "address": "# 1100, 6th cross, BEL Layout, Bharathinagar stage IIBengaluru 560 092"
+    "address": "# 1100, 6th cross, BEL Layout, Bharathinagar stage IIBengaluru 560 092",
+    "status": "Active"
   },
   {
+    "memberId": "MEM305",
     "name": "Sri.Y.S. Mallikarjuna",
-    "address": "# 124, 1st Main, 3rd phase,WOC road, Manjunathanagar Rajajinagar po, Bengaluru 560 010"
+    "address": "# 124, 1st Main, 3rd phase,WOC road, Manjunathanagar Rajajinagar po, Bengaluru 560 010",
+    "status": "Active"
   },
   {
+    "memberId": "MEM306",
     "name": "Smt. Gnaneshwari",
-    "address": "W/o RamdasAdalapura at & po, Tumakuru Tq & Dist. 572 101"
+    "address": "W/o RamdasAdalapura at & po, Tumakuru Tq & Dist. 572 101",
+    "status": "Active"
   },
   {
+    "memberId": "MEM307",
     "name": "Sri. Rajashekhar",
-    "address": "#35, 2nd Cross, GnanajyothinagarMariyappanapalya, Bangalore 560 056"
+    "address": "#35, 2nd Cross, GnanajyothinagarMariyappanapalya, Bangalore 560 056\u0007\u0007",
+    "status": "Active"
   },
   {
+    "memberId": "MEM308",
     "name": "Sri. H.V.Shivakumar",
-    "address": "# 303, G Blk, Netravathi, BDA Quarters, Nandini Layout, Bengaluru- 560 096"
+    "address": "# 303, G Blk, Netravathi, BDA Quarters, Nandini Layout, Bengaluru- 560 096",
+    "status": "Active"
   },
   {
+    "memberId": "MEM309",
     "name": "Sri Maheswarappa Malleswaranagar",
-    "address": "Arasikere at & po. Hassan Dist. 573 103"
+    "address": "Arasikere at & po. Hassan Dist. 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM310",
     "name": "Sri. V.Basavaraju",
-    "address": "# Veerabhadreswara Nilaya 7th Cross, Mariyappanapalya Gnanabharathi Po. Bengaluru 560 056"
+    "address": "# Veerabhadreswara Nilaya 7th Cross, Mariyappanapalya Gnanabharathi Po. Bengaluru 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM311",
     "name": "Sri. S.K. Hadapad",
-    "address": "# 5, 12th Blk, J.B Kaval police quarters Krishnanandanagar,Bengaluru- 560 096"
+    "address": "# 5, 12th Blk, J.B Kaval police quarters Krishnanandanagar,Bengaluru- 560 096",
+    "status": "Active"
   },
   {
+    "memberId": "MEM312",
     "name": "Sri.Mohan Veerappa Gadad",
-    "address": "M.Sc #385, 1st floor, 10th C Cross, W-O-C Road, Mahalaxmipuram, Bangalore 560 086"
+    "address": "M.Sc #385, 1st floor, 10th C Cross, W-O-C Road, Mahalaxmipuram, Bangalore 560 086",
+    "status": "Active"
   },
   {
+    "memberId": "MEM313",
     "name": "Smt. Roopa Ravishankar.B.S",
-    "address": "# 2975, 14th Main, Gayatrinagar, Rajajinagar 2nd Phase, Bangalore 560 021"
+    "address": "# 2975, 14th Main, Gayatrinagar, Rajajinagar 2nd Phase, Bangalore 560 021",
+    "status": "Active"
   },
   {
+    "memberId": "MEM314",
     "name": "Sri. M.Umapathy",
-    "address": "Teacher S.Madapura at & Po. Singatagere Hobli, Kadur Tq., CKM Dist.. 577138"
+    "address": "Teacher S.Madapura at & Po. Singatagere Hobli, Kadur Tq., CKM Dist.. 577138",
+    "status": "Active"
   },
   {
+    "memberId": "MEM315",
     "name": "Sri. Kantharaju s/o VeerabhadrappaAsst. warden",
-    "address": "Amrutha school of Engg. Basavanahally, Bengaluru 560 035"
+    "address": "Amrutha school of Engg. Basavanahally, Bengaluru 560 035",
+    "status": "Active"
   },
   {
+    "memberId": "MEM316",
     "name": "Sri.G. Parappa",
-    "address": "C/o 3447, Dattatreya compound Laxmipuram, Arasikere at & Po.Hassan Dist .- 573 103"
+    "address": "C/o 3447, Dattatreya compound Laxmipuram, Arasikere at & Po.Hassan Dist .- 573 103",
+    "status": "Active"
   },
   {
+    "memberId": "MEM317",
     "name": "Sri. K.F. Hadapad",
-    "address": "# 706,3rd Cross, BSK 1st Stage,Ashoknagar Bengaluru- 560 050"
+    "address": "# 706,3rd Cross, BSK 1st Stage,Ashoknagar Bengaluru- 560 050",
+    "status": "Active"
   },
   {
+    "memberId": "MEM318",
     "name": "Sri.H.G.Chidanand",
-    "address": "S/o C.Gangaiah, # 74, Anchepalya extn.Nagasandra Po., Tumakuru road, Bengaluru 560 073"
+    "address": "S/o C.Gangaiah, # 74, Anchepalya extn.Nagasandra Po., Tumakuru road, Bengaluru 560 073",
+    "status": "Active"
   },
   {
+    "memberId": "MEM319",
     "name": "Sri. B.M.Rudresh",
-    "address": "# 456, 12th Main, M.C.Road Extn.Vijayanagar, Bengaluru 560 040"
+    "address": "# 456, 12th Main, M.C.Road Extn.Vijayanagar, Bengaluru 560 040",
+    "status": "Active"
   },
   {
+    "memberId": "MEM320",
     "name": "Sri.Shivarudraiah.B.V",
-    "address": "# 1080, Visweswaraiah BDA layout 4th stage, Near ChikkabastiBengaluru 560 056"
+    "address": "# 1080, Visweswaraiah BDA layout 4th stage, Near ChikkabastiBengaluru 560 056",
+    "status": "Active"
   },
   {
+    "memberId": "MEM321",
     "name": "Sri..H.M.Chandrashekhar",
-    "address": "C/oHB Revanna, # 347, 1st Main, Opp new bus stand, New housing board colony, HASSAN 573 201"
+    "address": "C/oHB Revanna, # 347, 1st Main, Opp new bus stand, New housing board colony, HASSAN 573 201",
+    "status": "Active"
   },
   {
+    "memberId": "MEM322",
     "name": "Smt. Pushpavathi Thippeswamy",
-    "address": "# 76, T.G.Palya main road, Near Manjusri Garments, Peenya II stage, Bengaluru 560 058\u0003\u0004\u0003\u0004\u0013 PAGE \\* MERGEFORMAT \u001415\u0015"
+    "address": "# 76, T.G.Palya main road, Near Manjusri Garments, Peenya II stage, Bengaluru 560 058",
+    "status": "Active"
   }
 ]
